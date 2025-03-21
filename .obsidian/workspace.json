@@ -8,49 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9276f02d33cf5b25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
             "id": "e06272b8e4c61287",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programa de la materia/Programa de economia 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Programa de economia 2025"
-            }
-          },
-          {
-            "id": "fe1b9319d5e8b91d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "práctica/matematica-financiera/Interés compuesto y simple.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interés compuesto y simple"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,18 +165,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78be39188a5963cc",
+  "active": "e06272b8e4c61287",
   "lastOpenFiles": [
-    "programa de la materia/Programa de economia 2025.md",
+    "microeconomía/1.1 Fundamentos economicos/Concepto y metodo en economia.md",
     "práctica/matematica-financiera/Interés compuesto y simple.md",
+    "microeconomía/1.3 Produccion y costos/Empresa y financiamiento..md",
+    "microeconomía/1.2 Mercados y Equilibrio/Demanda (curva, elasticidad, desplazamientos)..md",
+    "programa de la materia/Programa de economia 2025.md",
+    "microeconomía/1.4 Estructuras de Mercado/Competencia imperfecta (monopolio, regulación)..md",
+    "microeconomía/1.4 Estructuras de Mercado/Competencia perfecta (empresa y decisiones)..md",
+    "microeconomía/1.3 Produccion y costos/Maximización de beneficios..md",
+    "microeconomía/1.3 Produccion y costos/Rendimientos de escala..md",
+    "microeconomía/1.3 Produccion y costos/Costos a corto-largo plazo..md",
+    "microeconomía/1.2 Mercados y Equilibrio/Precios máximos-mínimos y subsidios..md",
+    "microeconomía/1.2 Mercados y Equilibrio/Equilibrio de mercado..md",
+    "microeconomía/1.2 Mercados y Equilibrio/Oferta (curva, elasticidad, desplazamientos).md",
+    "microeconomía/1.1 Fundamentos economicos/Frontera de posibilidades de producción..md",
+    "microeconomía/1.1 Fundamentos economicos/Problemas económicos fundamentales..md",
+    "microeconomía/1.1 Fundamentos economicos/Untitled.md",
+    "Untitled",
+    "microeconomía/1.1 Fundamentos economicos/Escasez, elección, factores productivos..md",
+    "microeconomía/1.4 Estructuras de Mercado",
+    "microeconomía/1.3 Produccion y costos",
+    "microeconomía/1.2 Mercados y Equilibrio",
+    "microeconomía/1.1 Fundamentos economicos",
+    "microeconomía",
+    "Imagenes/microEcoProgramaAnalitico2.png",
+    "Imagenes/microEcoProgramaAnalitico1.png",
+    "README.md",
+    "Welcome.md",
+    "create a link.md",
     "práctica/matematica-financiera",
     "práctica",
-    "Imagenes/microEcoProgramaAnalitico1.png",
-    "Imagenes/microEcoProgramaAnalitico2.png",
     "Imagenes",
-    "Welcome.md",
-    "programa de la materia",
-    "macro economia",
-    "micro economia"
+    "programa de la materia"
   ]
 }
