@@ -1,0 +1,5 @@
+- **Puntos Clave:**
+    - El comercio permite la especialización.
+    - Aumenta la variedad de bienes y servicios disponibles.
+- **Ejemplos Relevantes:**
+    - El comercio entre países, como México, Brasil, Argentina, Costa Rica y Chile, que son tanto socios como competidores en la economía mundial.
