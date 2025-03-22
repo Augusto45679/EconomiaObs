@@ -6,3 +6,4 @@ Def. **Indicadores**: son medidas elaboradas para tener una noci´on m´etrica d
 *Ejemplo 2: conceptualizamos la pobreza como variable, y un indicador para medirla pueden ser los hogares bajo la línea de la pobreza (aquellos que no consiguen ganar más que la canasta básica total). Aquí la variable es pobreza, **el índicador son los hogares bajo la línea de pobreza.
 
 
+[[Variables]] 
