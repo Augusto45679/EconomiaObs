@@ -1,4 +1,6 @@
 
+## Las personas racionales piensan en términos marginales (*beneficios vs costos marginales al realizar determinada acción*).
+
 * Def. **Personas Racionales:  Individuos que deliberada y sistemáticamente tratan de hacer lo posible para lograr sus objetivos.
 * Def. **Cambio Marginal: Pequeños ajustes adicionales que se le hacen a un plan de acción.
 

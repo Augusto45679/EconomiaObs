@@ -1,3 +1,5 @@
+## Las personas responden a los incentivos (responden a cambios en precios, regulaciones, etc).
+
 * **Def. Incentivo:  Aquello que induce a las personas a actuar. 
 
  Los incentivos (recompensas o castigos) influyen en el comportamiento.

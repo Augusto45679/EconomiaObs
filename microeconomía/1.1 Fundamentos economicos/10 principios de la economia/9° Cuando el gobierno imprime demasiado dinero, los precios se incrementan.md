@@ -1,3 +1,5 @@
+## Cuando el gobierno imprime demasiado dinero los precios se incrementan (mediano/largo plazo).
+
 Def. **Inflación:** Un incremento en el nivel general de los precios en la economía. 
 
 - La inflación es causada por un aumento en la cantidad de dinero en circulación.

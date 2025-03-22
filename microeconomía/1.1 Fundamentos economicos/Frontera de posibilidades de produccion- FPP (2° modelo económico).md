@@ -1,8 +1,6 @@
-
 ## Frontera de posibilidades de producción
 
 Def. **Fronteras de posibilidades de producción** : Gráfica que muestra las combinaciones de producción que una economía puede tener, dados los factores de la producción y la tecnología de que dispone. 
-
 #### ¿Para que sirve este modelo? 
 
 La FPP sirve para:
@@ -10,7 +8,6 @@ La FPP sirve para:
 - **Mostrar la eficiencia:** Los puntos en la frontera representan niveles de producción eficientes, donde se está utilizando la totalidad de los recursos disponibles.
 - **Entender las disyuntivas:** Al movernos de un punto a otro en la frontera, se observa que para producir más de un bien, se debe producir menos del otro.
 - **Analizar el costo de oportunidad:** La pendiente de la frontera representa el costo de oportunidad de producir una unidad adicional de un bien en términos del otro bien.
-
 ### Analisis de la figura 
 
 ![[figura2FPP.png]]
@@ -26,4 +23,7 @@ Osea que al pasar del punto A al B yo estoy sacrificando 2 computadoras por 1 Au
 - **Puntos fuera de la frontera (puntos inalcanzables):** Representan combinaciones de producción inalcanzables con los recursos y la tecnología actuales. Por ejemplo, el punto Z (también conceptual) estaría más allá de la capacidad de producción de la economía. *Ejemplo de esto sería el punto C*
 
 ![[figura3FPP.png]]
+### Power de la profe
 
+![[power1.png]]
+![[power2.png]]

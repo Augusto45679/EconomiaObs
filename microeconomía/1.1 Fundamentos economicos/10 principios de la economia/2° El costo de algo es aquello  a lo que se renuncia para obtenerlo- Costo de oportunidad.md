@@ -1,3 +1,4 @@
+## El costo de algo es aquello a lo que se renuncia por obtenerlo (costo de oportunidad).
 
 **Def. [Costo de oportunidad]: Lo que se debe sacrificar con la finalidad de obtener algo
 

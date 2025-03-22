@@ -1,3 +1,6 @@
+
+## El gobierno puede mejorar algunas veces los resultados de los mercados (seguridad jurídica, asimetrías de información, bienes públicos, falta de competencia, externalidades, equidad ).
+
 **Definiciones importantes:
 
 - **Derechos de propiedad:** Habilidad que tienen las personas para tener y controlar los recursos escasos.

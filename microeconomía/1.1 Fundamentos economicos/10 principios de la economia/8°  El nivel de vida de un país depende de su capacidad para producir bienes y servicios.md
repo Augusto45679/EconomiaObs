@@ -1,3 +1,6 @@
+
+## El nivel de vida de un pa´ıs depende de su capacidad de producir bienes y servicios (distintos niveles de productividad).
+
 Def. **Productividad: Cantidad de bienes y servicios producidos por unidad de trabajo.
 
 
