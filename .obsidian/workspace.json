@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microeconomía/1.1 Fundamentos economicos/Diagrama de flujo circular (1°modelo económico).md",
+                "file": "microeconomía/Recursos productivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diagrama de flujo circular (1°modelo económico)"
+              "title": "Recursos productivos"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,11 +254,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "085c8799c0ad648c",
+  "active": "e3a9cc647ed61ba5",
   "lastOpenFiles": [
+    "microeconomía/Economía positiva.md",
+    "microeconomía/Economía normativa.md",
+    "microeconomía/Ceteris Paribus.md",
     "microeconomía/Agentes economicos.md",
-    "microeconomía/1.1 Fundamentos economicos/Frontera de posibilidades de produccion- FPP (2° modelo económico).md",
     "microeconomía/1.1 Fundamentos economicos/Diagrama de flujo circular (1°modelo económico).md",
+    "microeconomía/1.1 Fundamentos economicos/Frontera de posibilidades de produccion- FPP (2° modelo económico).md",
     "microeconomía/1.1 Fundamentos economicos/Concepto y metodo en economia.md",
     "microeconomía/1.1 Fundamentos economicos/Supuestos (el rol de los supuestos).md",
     "microeconomía/1.1 Fundamentos economicos/Respuesta de lo que da la economía.md",
@@ -268,9 +271,6 @@
     "microeconomía/Recursos productivos.md",
     "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/1° Las personas enfrentan disyuntivas.md",
     "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/2° El costo de algo es aquello  a lo que se renuncia para obtenerlo- Costo de oportunidad.md",
-    "microeconomía/Ceteris Paribus.md",
-    "microeconomía/Economía normativa.md",
-    "microeconomía/Economía positiva.md",
     "Imagenes/flujocircularRenta.png",
     "2025-03-21.md",
     "Imagenes/rtasEconomia.png",
