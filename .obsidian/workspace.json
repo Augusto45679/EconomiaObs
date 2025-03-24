@@ -4,38 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "5b60561ad2a625c2",
+        "id": "bcaf0d580d4f7fc6",
         "type": "tabs",
         "children": [
           {
-            "id": "60586e3467cbf861",
+            "id": "605ad2fe02870b9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microeconomía/Variables exogenas.md",
+                "file": "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos contables vs economicos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variables exogenas"
+              "title": "Costos contables vs economicos"
             }
           },
           {
-            "id": "3711b60ebfcc438f",
+            "id": "6cabb2050b32a8ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microeconomía/1.1 Fundamentos economicos/Frontera de posibilidades de produccion- FPP (2° modelo económico).md",
+                "file": "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos contables vs economicos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frontera de posibilidades de produccion- FPP (2° modelo económico)"
+              "title": "Costos contables vs economicos"
+            }
+          },
+          {
+            "id": "d5dec3ad47da278f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,14 +96,14 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 318.5026054382324
+    "width": 300.51103591918945
   },
   "right": {
     "id": "0d917a3b41cefe00",
@@ -194,53 +205,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60586e3467cbf861",
+  "active": "d5dec3ad47da278f",
   "lastOpenFiles": [
-    "microeconomía/Variables endogenas.md",
-    "microeconomía/Recursos productivos.md",
-    "microeconomía/Variables exogenas.md",
-    "microeconomía/Agentes economicos.md",
-    "microeconomía/Ceteris Paribus.md",
-    "microeconomía/Economía positiva.md",
-    "microeconomía/Indicadores.md",
-    "Clase 2025-03-22.md",
-    "microeconomía/Variables.md",
+    "microeconomía/1.3 Produccion y costos/Produccion vs Costos.md",
+    "microeconomía/1.3 Produccion y costos/Rendimientos de escala..md",
+    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Maximizacion de beneficios.md",
+    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Regla maximización IM = CM.md",
+    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Perdidas.md",
+    "microeconomía/1.3 Produccion y costos/intro-empresa y productividad/Relacion productividad y nivel de vida.md",
+    "microeconomía/1.3 Produccion y costos/intro-empresa y productividad/Factores de la productividad.md",
+    "microeconomía/1.3 Produccion y costos/Funcion de produccion/Producto marginal.md",
+    "microeconomía/1.3 Produccion y costos/Funcion de produccion/Producto medio.md",
+    "microeconomía/1.3 Produccion y costos/Funcion de produccion/Producto total.md",
+    "microeconomía/1.3 Produccion y costos/Funcion de produccion/Funcion de Produccion.md",
+    "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos a corto plazo..md",
+    "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos explicitos e implicitos.md",
+    "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos contables vs economicos.md",
+    "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos a largo plazo.md",
+    "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos de producción.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Oferta/Curva de Oferta.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Demanda/Factores subyacentes de la Demanda..md",
+    "microeconomía/1.2 Mercados y Equilibrio/Demanda/Curva de Demanda..md",
+    "ProgramaAnalitico/Programa de economia 2025.md",
+    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Beneficios extraordinarios.md",
+    "microeconomía/1.3 Produccion y costos/Empresa y figura del empresario/Empresa y empresario.md",
+    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Beneficio contable.md",
+    "microeconomía/1.3 Produccion y costos/Empresa y figura del empresario/Empresario tradicional vs morderno.md",
+    "microeconomía/1.3 Produccion y costos/Empresa y figura del empresario/Tipos de organizacion empresarial.md",
     "microeconomía/Economía normativa.md",
-    "microeconomía/1.1 Fundamentos economicos/Respuesta de lo que da la economía.md",
-    "microeconomía/1.1 Fundamentos economicos/Supuestos (el rol de los supuestos).md",
-    "microeconomía/1.1 Fundamentos economicos/Modelos economicos.md",
-    "microeconomía/1.1 Fundamentos economicos/Frontera de posibilidades de produccion- FPP (2° modelo económico).md",
-    "microeconomía/1.1 Fundamentos economicos/Diagrama de flujo circular (1°modelo económico).md",
-    "microeconomía/1.1 Fundamentos economicos/Concepto y metodo en economia.md",
-    "microeconomía/1.3 Produccion y costos/Maximización de beneficios..md",
-    "práctica/matematica-financiera/Interes simple.md",
-    "práctica/matematica-financiera/Interés compuesto.md",
-    "2025-03-21.md",
-    "Imagenes/Pasted image 20250321235546.png",
-    "Sin título.canvas",
-    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/1° Las personas enfrentan disyuntivas.md",
-    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/2° El costo de algo es aquello  a lo que se renuncia para obtenerlo- Costo de oportunidad.md",
-    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/10° En el corto plazo la sociedad enfrenta a corto plazo una disyuntiva entre inflación y desempleo.md",
-    "README.md",
-    "Imagenes/figura2FPP.png",
-    "Imagenes/figura3FPP.png",
-    "Imagenes/flujocircularRenta.png",
-    "Imagenes/microEcoProgramaAnalitico1.png",
+    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios",
+    "microeconomía/1.3 Produccion y costos/Costos de produccion",
+    "microeconomía/1.3 Produccion y costos/Funcion de produccion",
+    "microeconomía/1.3 Produccion y costos/Empresa y figura del empresario",
+    "microeconomía/1.3 Produccion y costos/intro-empresa y productividad",
+    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad",
+    "Precios mínimos",
+    "microeconomía/1.2 Mercados y Equilibrio/Regulaciones",
+    "Otros",
+    "Clases",
     "Imagenes/microEcoProgramaAnalitico2.png",
-    "Imagenes/power1.png",
-    "Imagenes/power2.png",
+    "Imagenes/microEcoProgramaAnalitico1.png",
+    "Imagenes/Pasted image 20250321235546.png",
+    "Imagenes/preciominimo2.png",
+    "Imagenes/precioMaximo.png",
+    "Imagenes/precioMinimo.png",
     "Imagenes/rtasEconomia.png",
-    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/9° Cuando el gobierno imprime demasiado dinero, los precios se incrementan.md",
-    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/8°  El nivel de vida de un país depende de su capacidad para producir bienes y servicios.md",
-    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia",
-    "Untitled",
-    "microeconomía/1.4 Estructuras de Mercado",
-    "microeconomía/1.3 Produccion y costos",
-    "microeconomía/1.2 Mercados y Equilibrio",
-    "microeconomía/1.1 Fundamentos economicos",
-    "microeconomía",
-    "práctica/matematica-financiera",
-    "práctica",
-    "Imagenes"
+    "Imagenes/ImpuestoCuñaIzquierda.png",
+    "Imagenes/Impuesto.png",
+    "Imagenes/GraficoImpuesto.png",
+    "Sin título.canvas"
   ]
 }

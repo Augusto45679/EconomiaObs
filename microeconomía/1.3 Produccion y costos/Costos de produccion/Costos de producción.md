@@ -1,0 +1,6 @@
+[[Costos a largo plazo]]
+[[Costos a corto plazo.]]
+[[Costos contables vs economicos]]
+[[Costos explicitos e implicitos]]
+[[Maximizacion de beneficios]]
+[[Funcion de Produccion]]

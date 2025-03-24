@@ -1,0 +1,5 @@
+[[Curva de Demanda.]]
+[[Factores subyacentes de la Oferta]]
+[[Curva de Oferta]]
+[[Factores subyacentes de la Demanda.]]
+[[Equilibrio de mercado.]]

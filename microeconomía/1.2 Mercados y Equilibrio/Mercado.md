@@ -1,0 +1,1 @@
+[[Mercado competitivo]]

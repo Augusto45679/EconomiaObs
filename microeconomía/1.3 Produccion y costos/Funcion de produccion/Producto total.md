@@ -1,0 +1,2 @@
+[[Producto medio]]
+[[Producto marginal]]
