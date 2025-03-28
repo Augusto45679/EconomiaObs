@@ -20,7 +20,13 @@ Caso en el que se **mueve** la curva:
 ![[libroMovVsDespDemanda.png]]
 
 
-
-
 ## Desplazamiento y moviemiento en la Oferta
 
+La curva de la oferta se **desplaza** si alguno de sus factores subyacentes se modifica.
+
+* **Aumento de la oferta** : *mejora tecnológica, disminución en los costos,
+condiciones meteorológicas favorables, aumento de la cantidad de oferentes.*
+* **Disminución de la oferta**: *se daría a que pase todo lo opuesto del item anterior, factores subyacentes de manera negativa digamos.
+
+
+![[desplazamientosOferta.png]]
