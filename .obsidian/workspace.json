@@ -39,10 +39,14 @@
             "id": "d5dec3ad47da278f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "microeconomía/1.2 Mercados y Equilibrio/Movimiento vs Desplazamiento..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Movimiento vs Desplazamiento."
             }
           }
         ],
@@ -103,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.51103591918945
+    "width": 224.51103591918945
   },
   "right": {
     "id": "0d917a3b41cefe00",
@@ -207,6 +211,17 @@
   },
   "active": "d5dec3ad47da278f",
   "lastOpenFiles": [
+    "Imagenes/libroMovVsDespDemanda.png",
+    "microeconomía/1.2 Mercados y Equilibrio/Movimiento vs Desplazamiento..md",
+    "microeconomía/1.2 Mercados y Equilibrio/Demanda/Factores subyacentes de la Demanda..md",
+    "microeconomía/1.2 Mercados y Equilibrio/Demanda/Curva de Demanda..md",
+    "Imagenes/curvaDemandaGrafico.png",
+    "Imagenes/movimientoVsTrasladoOferta.png",
+    "Imagenes/curvaDeOferta.png",
+    "Clases/Clase 2025-03-22.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Oferta/Curva de Oferta.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Mercado competitivo.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Mercado.md",
     "microeconomía/1.3 Produccion y costos/Produccion vs Costos.md",
     "microeconomía/1.3 Produccion y costos/Rendimientos de escala..md",
     "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Maximizacion de beneficios.md",
@@ -223,16 +238,8 @@
     "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos contables vs economicos.md",
     "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos a largo plazo.md",
     "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos de producción.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Oferta/Curva de Oferta.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Demanda/Factores subyacentes de la Demanda..md",
-    "microeconomía/1.2 Mercados y Equilibrio/Demanda/Curva de Demanda..md",
     "ProgramaAnalitico/Programa de economia 2025.md",
     "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Beneficios extraordinarios.md",
-    "microeconomía/1.3 Produccion y costos/Empresa y figura del empresario/Empresa y empresario.md",
-    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Beneficio contable.md",
-    "microeconomía/1.3 Produccion y costos/Empresa y figura del empresario/Empresario tradicional vs morderno.md",
-    "microeconomía/1.3 Produccion y costos/Empresa y figura del empresario/Tipos de organizacion empresarial.md",
-    "microeconomía/Economía normativa.md",
     "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios",
     "microeconomía/1.3 Produccion y costos/Costos de produccion",
     "microeconomía/1.3 Produccion y costos/Funcion de produccion",
@@ -249,10 +256,6 @@
     "Imagenes/preciominimo2.png",
     "Imagenes/precioMaximo.png",
     "Imagenes/precioMinimo.png",
-    "Imagenes/rtasEconomia.png",
-    "Imagenes/ImpuestoCuñaIzquierda.png",
-    "Imagenes/Impuesto.png",
-    "Imagenes/GraficoImpuesto.png",
     "Sin título.canvas"
   ]
 }

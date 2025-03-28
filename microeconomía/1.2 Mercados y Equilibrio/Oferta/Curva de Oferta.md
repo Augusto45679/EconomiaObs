@@ -2,3 +2,5 @@
 [[Elasticidad precio de la oferta]]
 [[Movimiento vs Desplazamiento.]]
 [[Equilibrio de mercado.]]
+
+
