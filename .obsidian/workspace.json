@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos contables vs economicos.md",
+                "file": "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad precio de la demanda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Costos contables vs economicos"
+              "title": "Elasticidad precio de la demanda"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microeconomía/1.2 Mercados y Equilibrio/Equilibrio de mercado..md",
+                "file": "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Tipos de elasticidad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equilibrio de mercado."
+              "title": "Tipos de elasticidad"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,26 +209,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cabb2050b32a8ad",
+  "active": "605ad2fe02870b9d",
   "lastOpenFiles": [
-    "Pasted image 20250402115215.png",
-    "Pasted image 20250402113402.png",
-    "microeconomía/1.2 Mercados y Equilibrio/Oferta/Factores subyacentes de la Oferta.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Equilibrio de mercado..md",
-    "microeconomía/1.2 Mercados y Equilibrio/Demanda/Factores subyacentes de la Demanda..md",
-    "Pasted image 20250402112608.png",
-    "microeconomía/1.2 Mercados y Equilibrio/Excendentes_Escasez.md",
-    "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos contables vs economicos.md",
-    "Pasted image 20250402111419.png",
-    "Pasted image 20250402110822.png",
-    "microeconomía/1.2 Mercados y Equilibrio/Mercado competitivo.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Mercado.md",
     "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Tipos de elasticidad.md",
     "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Relación Elasticidad-Ingreso total.md",
     "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad precio de la oferta.md",
     "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad precio de la demanda.md",
     "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad Ingreso.md",
     "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad Cruzada.md",
+    "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos contables vs economicos.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Equilibrio de mercado..md",
+    "Pasted image 20250402115215.png",
+    "Pasted image 20250402113402.png",
+    "microeconomía/1.2 Mercados y Equilibrio/Oferta/Factores subyacentes de la Oferta.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Demanda/Factores subyacentes de la Demanda..md",
+    "Pasted image 20250402112608.png",
+    "microeconomía/1.2 Mercados y Equilibrio/Excendentes_Escasez.md",
+    "Pasted image 20250402111419.png",
+    "Pasted image 20250402110822.png",
+    "microeconomía/1.2 Mercados y Equilibrio/Mercado competitivo.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Mercado.md",
     "microeconomía/1.2 Mercados y Equilibrio/Movimiento vs Desplazamiento..md",
     "microeconomía/1.2 Mercados y Equilibrio/Oferta/Curva de Oferta.md",
     "microeconomía/1.2 Mercados y Equilibrio/Demanda/Curva de Demanda..md",
@@ -257,7 +256,6 @@
     "Otros",
     "Clases",
     "Imagenes/microEcoProgramaAnalitico2.png",
-    "Imagenes/microEcoProgramaAnalitico1.png",
     "Sin título.canvas"
   ]
 }
