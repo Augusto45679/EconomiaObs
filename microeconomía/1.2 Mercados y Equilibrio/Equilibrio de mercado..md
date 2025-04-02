@@ -60,6 +60,6 @@ En este caso si hay un factor subyacente de la oferta que afecta a la produccion
 
 ### Desplazamiento de O y D 
 
-*Ahora suponga que una ola de calor y un huracán ocurren durante el mismo verano. Para analizar esta combinación de acontecimientos, debemos seguir nuevamente los tres pasos.*
+Ahora suponga que una ola de calor y un huracán ocurren durante el mismo verano. Para analizar esta combinación de acontecimientos, debemos seguir nuevamente los tres pasos.
 
 ![[Pasted image 20250402115215.png]]
