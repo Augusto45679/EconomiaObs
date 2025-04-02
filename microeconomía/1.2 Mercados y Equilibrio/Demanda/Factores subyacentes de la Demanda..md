@@ -10,11 +10,11 @@ La [[Curva de Demanda.]] determina la relación entre la cantidad del bien deman
 		+ Si la demanda de un bien disminuye, cuando se reduce el Ingreso $I$ , se dice que es un ***bien normal***.
 		+ Si la demanda de un bien aumenta cuando el ingreso disminuye, se dice que es un ***bien inferior***.
 	
-2. **Población / número de compradores**: *si aumenta la cantidad de personas en determinado lugar y per´ıodo de tiempo, el mercado se agranda, y es de esperarse que aumente la demanda por todos los bienes.
+2. **Población / número de compradores**: *si aumenta la cantidad de personas en determinado lugar y período de tiempo, el mercado se agranda, y es de esperarse que aumente la demanda por todos los bienes.
 
 3. **Precio de los bienes complementarios**: *bien consumido en conjunto con otro bien. (ej; coca cola y fernet).
 
-4. **Precio de los bienes sustitutos**: *un bien sustituto puede satisfacer la misma necesidad que aquel que sustituye.El aumento/disminución del precio del bien sustituto, incrementa/disminuye la demanda del bien analizado.. (azucar vs edulcorante, asesoría virtual vs presencial).
+4. **Precio de los bienes sustitutos**: *un bien sustituto puede satisfacer la misma necesidad que aquel que sustituye. El aumento/disminución del precio del bien sustituto, incrementa/disminuye la demanda del bien analizado.. (azucar vs edulcorante, asesoría virtual vs presencial).
 
 5. **Gustos / modas**: : *incrementan la demanda por un bien.
 
