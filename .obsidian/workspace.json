@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad precio de la demanda.md",
+                "file": "Clases/2025-04-05 (teoría).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elasticidad precio de la demanda"
+              "title": "2025-04-05 (teoría)"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.51103591918945,
-    "collapsed": true
+    "width": 331.51103591918945
   },
   "right": {
     "id": "0d917a3b41cefe00",
@@ -158,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -172,20 +171,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "b737908dc5c5fe22",
   "lastOpenFiles": [
+    "Pasted image 20250405092123.png",
+    "Pasted image 20250405092054.png",
+    "Pasted image 20250405085956.png",
+    "Pasted image 20250405084057.png",
+    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad precio de la demanda.md",
+    "Clases/2025-04-05 (teoría).md",
     "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Tipos de elasticidad.md",
     "microeconomía/1.2 Mercados y Equilibrio/Equilibrio de mercado..md",
-    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad precio de la demanda.md",
     "Pasted image 20250402130650.png",
     "Pasted image 20250402125909.png",
     "Clases/2025-03-29 (teoría).md",
@@ -208,16 +212,12 @@
     "microeconomía/1.2 Mercados y Equilibrio/Oferta/Curva de Oferta.md",
     "microeconomía/1.2 Mercados y Equilibrio/Demanda/Curva de Demanda..md",
     "microeconomía/Agentes economicos.md",
-    "Imagenes/libroMovVsDespDemanda.png",
-    "Imagenes/curvaDemandaGrafico.png",
-    "Imagenes/movimientoVsTrasladoOferta.png",
     "Clases/Clase 2025-03-22.md",
     "microeconomía/1.3 Produccion y costos/Produccion vs Costos.md",
     "microeconomía/1.3 Produccion y costos/Rendimientos de escala..md",
     "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Maximizacion de beneficios.md",
     "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Regla maximización IM = CM.md",
     "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Perdidas.md",
-    "microeconomía/1.3 Produccion y costos/intro-empresa y productividad/Relacion productividad y nivel de vida.md",
     "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios",
     "microeconomía/1.3 Produccion y costos/Costos de produccion",
     "microeconomía/1.3 Produccion y costos/Funcion de produccion",
