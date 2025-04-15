@@ -51,3 +51,39 @@ $\text{Elasticidad precio de la demanda}=\tfrac{-0.4}{0.4}=-1$
 
 ### Clasificación de las curvas  
 
+La ***elasticidad precio de la demanda*** determina si la curva de demanda es inclinada o plana. Los cambios porcentuales se calculan con ayuda del método del punto medio. 
+
+
+1. **Demanda perfectamente inelástica**: *la elasticidad es igual a 0.* 
+
+	![[Pasted image 20250415111200.png]]
+	Ejemplo; 
+
+2. **Demanda inelástica**: *elasticidad menor que 1.*
+	![[Pasted image 20250415111224.png]]
+	Ejemplo; 
+
+3. **Demanda elástica** ***unitaria**:* *la elasticidad es igual a 1.*
+	![[Pasted image 20250415111247.png]]
+	Ejemplo; 
+
+4. **Demanda elástica**: *la elasticidad es mayor que 1.* 
+	![[Pasted image 20250415111303.png]]
+	Ejemplo; 
+
+5. **Demanda perfectamente elástica**: *la elasticidad es igual a infinito precio.* 
+	![[Pasted image 20250415111312.png]]
+	Ejemplo;
+
+
+## Ingresos totales y elasticidad P de la demanda
+
+Los ingresos totales son la cantidad total pagada por los compradores y recibida por los vendedores de un bien. En cualquier mercado, los ingresos totales son P x Q .
+
+Def. **Ingresos totales** : *cantidad pagada por los compradores y recibida por los vendedores de un bien. Esta cantidad es el precio del bien multiplicado por la cantidad vendida de bienes.*
+
+![[Pasted image 20250415114154.png]]
+
+#### Como varían los ingresos totales cuando cambia el precio 
+
+![[Pasted image 20250415114253.png]]
