@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "69ee362bef9e9615",
+        "id": "b3efb5ebf36fb61a",
         "type": "tabs",
         "children": [
           {
-            "id": "b737908dc5c5fe22",
+            "id": "f671c44b85806a7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad Ingreso.md",
+                "file": "microeconomía/1.3 Produccion y costos/Funcion de produccion/Funcion de Produccion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elasticidad Ingreso"
+              "title": "Funcion de Produccion"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.51103591918945,
+    "width": 344.5,
     "collapsed": true
   },
   "right": {
@@ -172,52 +172,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b737908dc5c5fe22",
+  "active": "f671c44b85806a7b",
   "lastOpenFiles": [
-    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad Ingreso.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad precio de la demanda.md",
-    "Pasted image 20250415114253.png",
-    "Pasted image 20250415114154.png",
-    "Pasted image 20250415111312.png",
-    "Pasted image 20250415111303.png",
-    "Pasted image 20250415111247.png",
-    "Pasted image 20250415111224.png",
-    "Pasted image 20250415111200.png",
-    "microeconomía/1.2 Mercados y Equilibrio/Movimiento vs Desplazamiento..md",
+    "microeconomía/1.3 Produccion y costos/Funcion de produccion/Producto marginal.md",
+    "microeconomía/1.3 Produccion y costos/Funcion de produccion/Producto medio.md",
+    "microeconomía/1.3 Produccion y costos/Funcion de produccion/Producto total.md",
+    "microeconomía/1.3 Produccion y costos/Funcion de produccion/Funcion de Produccion.md",
+    "Pasted image 20250416131012.png",
+    "Fig51.png",
+    "microeconomía/1.3 Produccion y costos/Empresa y figura del empresario/Empresa y empresario.md",
+    "microeconomía/1.3 Produccion y costos/Empresa y figura del empresario/Empresario tradicional vs morderno.md",
+    "microeconomía/1.3 Produccion y costos/intro-empresa y productividad/Factores de la productividad.md",
+    "microeconomía/1.3 Produccion y costos/intro-empresa y productividad/Relacion productividad y nivel de vida.md",
+    "ProgramaAnalitico/Programa de economia 2025.md",
+    "Imagenes/Pasted image 20250415111200.png",
     "microeconomía/1.2 Mercados y Equilibrio/Mercado competitivo.md",
     "microeconomía/1.2 Mercados y Equilibrio/Mercado.md",
     "microeconomía/1.2 Mercados y Equilibrio/Equilibrio de mercado..md",
+    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad Cruzada.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad Ingreso.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad precio de la demanda.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad precio de la oferta.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Relación Elasticidad-Ingreso total.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Tipos de elasticidad.md",
+    "Imagenes/FactoresSuubyacentesDemanda.png",
+    "Imagenes/Pasted image 20250416094727.png",
+    "Imagenes/Pasted image 20250416094712.png",
+    "Imagenes/Pasted image 20250416094658.png",
+    "Imagenes/Pasted image 20250416094642.png",
+    "Imagenes/Pasted image 20250416094605.png",
+    "Imagenes/Pasted image 20250416094600.png",
+    "microeconomía/1.2 Mercados y Equilibrio/Movimiento vs Desplazamiento..md",
     "microeconomía/1.2 Mercados y Equilibrio/Demanda/Curva de Demanda..md",
     "microeconomía/1.2 Mercados y Equilibrio/Demanda/Factores subyacentes de la Demanda..md",
     "microeconomía/1.2 Mercados y Equilibrio/Oferta/Factores subyacentes de la Oferta.md",
     "microeconomía/1.2 Mercados y Equilibrio/Oferta/Curva de Oferta.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad Cruzada.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad precio de la oferta.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Relación Elasticidad-Ingreso total.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Tipos de elasticidad.md",
-    "Imagenes/Pasted image 20250405092123.png",
     "Clases/2025-04-05 (teoría).md",
-    "Imagenes/Pasted image 20250405092054.png",
-    "Imagenes/Pasted image 20250405085956.png",
     "Clases/2025-03-29 (teoría).md",
     "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos contables vs economicos.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Excendentes_Escasez.md",
-    "microeconomía/Agentes economicos.md",
-    "Clases/Clase 2025-03-22.md",
-    "microeconomía/1.3 Produccion y costos/Produccion vs Costos.md",
-    "microeconomía/1.3 Produccion y costos/Rendimientos de escala..md",
-    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Maximizacion de beneficios.md",
-    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Regla maximización IM = CM.md",
-    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Perdidas.md",
     "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios",
     "microeconomía/1.3 Produccion y costos/Costos de produccion",
     "microeconomía/1.3 Produccion y costos/Funcion de produccion",

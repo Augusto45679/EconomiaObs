@@ -1,8 +1,5 @@
 [[FactoresSuubyacentesDemanda.png]]
 [[Relación Elasticidad-Ingreso total]]
-
-
-
 ## Elasticidad ingreso de la demanda
 
 Mide como la cantidad demandada cambia ante un cambio en el ingreso del consumidor. Así se calcula
@@ -21,10 +18,3 @@ $\text{Elasticidad precio cruzada de la demanda}=\tfrac{\text{Cambio procentual 
 
 
 Def. **Elasticidad precio cruzada de la demanda**: *Una medida de qué tanto responde la cantidad demandada de un bien respecto al cambio en el precio de otro bien. Se calcula como el cambio porcentual en la demanda del primer bien, dividido entre el cambio porcentual en el precio del segundo bien.*
-
-
-## Elasticidad precio de la oferta y sus determinantes
-
-Def. **Elasticidad precio de la oferta** : *Una medida de qué tanto responde la cantidad ofrecida de un bien respecto al cambio en el precio del bien. Se calcula como el cambio porcentual en la cantidad ofrecida dividido entre el cambio porcentual en el precio.*
-
-$\text{Elasticidad precio de la oferta}=\tfrac{\text{Cambio porcentual en la cantidad ofrecida}}{\text{Cambio porcentual en el precio}}$

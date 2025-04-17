@@ -1,3 +1,3 @@
-[[FactoresSuubyacentesDemanda.png]]]
+[[FactoresSuubyacentesDemanda.png]]
 [[Curva de Oferta]]
 
