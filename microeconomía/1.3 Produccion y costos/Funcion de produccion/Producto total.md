@@ -1,2 +1,2 @@
 [[Producto medio]]
-[[Producto marginal]]
+[[Producción a largo plazo]]

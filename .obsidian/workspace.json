@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microeconomía/1.3 Produccion y costos/Funcion de produccion/Funcion de Produccion.md",
+                "file": "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Maximizacion de beneficios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funcion de Produccion"
+              "title": "Maximizacion de beneficios"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -172,29 +172,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "f671c44b85806a7b",
   "lastOpenFiles": [
-    "microeconomía/1.3 Produccion y costos/Funcion de produccion/Producto marginal.md",
-    "microeconomía/1.3 Produccion y costos/Funcion de produccion/Producto medio.md",
-    "microeconomía/1.3 Produccion y costos/Funcion de produccion/Producto total.md",
+    "Pasted image 20250418165527.png",
+    "Pasted image 20250418165320.png",
+    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Beneficio económicos y contables.md",
+    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Beneficios normales.md",
+    "microeconomía/1.3 Produccion y costos/Costos de produccion/Los costos a largo plazo..md",
+    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Maximizacion de beneficios.md",
+    "Pasted image 20250418163434.png",
+    "Pasted image 20250418163430.png",
+    "Pasted image 20250418163012.png",
+    "Pasted image 20250418161218.png",
+    "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos a corto plazo.md",
+    "microeconomía/1.3 Produccion y costos/Costos de produccion/Los costos de producción- el corto y el largo plazo.md",
+    "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos contables, explícitos, económicos e implícitos.md",
+    "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos de producción.md",
+    "Pasted image 20250418160034.png",
+    "Pasted image 20250418155937.png",
+    "Pasted image 20250418155055.png",
+    "Pasted image 20250418155012.png",
+    "Pasted image 20250418154915.png",
     "microeconomía/1.3 Produccion y costos/Funcion de produccion/Funcion de Produccion.md",
-    "Pasted image 20250416131012.png",
-    "Fig51.png",
+    "microeconomía/1.3 Produccion y costos/Funcion de produccion/Producción a largo plazo.md",
+    "microeconomía/1.3 Produccion y costos/Funcion de produccion/Producto total.md",
+    "microeconomía/1.3 Produccion y costos/Funcion de produccion/Producto medio.md",
     "microeconomía/1.3 Produccion y costos/Empresa y figura del empresario/Empresa y empresario.md",
     "microeconomía/1.3 Produccion y costos/Empresa y figura del empresario/Empresario tradicional vs morderno.md",
     "microeconomía/1.3 Produccion y costos/intro-empresa y productividad/Factores de la productividad.md",
     "microeconomía/1.3 Produccion y costos/intro-empresa y productividad/Relacion productividad y nivel de vida.md",
     "ProgramaAnalitico/Programa de economia 2025.md",
-    "Imagenes/Pasted image 20250415111200.png",
     "microeconomía/1.2 Mercados y Equilibrio/Mercado competitivo.md",
     "microeconomía/1.2 Mercados y Equilibrio/Mercado.md",
     "microeconomía/1.2 Mercados y Equilibrio/Equilibrio de mercado..md",
@@ -203,22 +219,6 @@
     "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad precio de la demanda.md",
     "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad precio de la oferta.md",
     "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Relación Elasticidad-Ingreso total.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Tipos de elasticidad.md",
-    "Imagenes/FactoresSuubyacentesDemanda.png",
-    "Imagenes/Pasted image 20250416094727.png",
-    "Imagenes/Pasted image 20250416094712.png",
-    "Imagenes/Pasted image 20250416094658.png",
-    "Imagenes/Pasted image 20250416094642.png",
-    "Imagenes/Pasted image 20250416094605.png",
-    "Imagenes/Pasted image 20250416094600.png",
-    "microeconomía/1.2 Mercados y Equilibrio/Movimiento vs Desplazamiento..md",
-    "microeconomía/1.2 Mercados y Equilibrio/Demanda/Curva de Demanda..md",
-    "microeconomía/1.2 Mercados y Equilibrio/Demanda/Factores subyacentes de la Demanda..md",
-    "microeconomía/1.2 Mercados y Equilibrio/Oferta/Factores subyacentes de la Oferta.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Oferta/Curva de Oferta.md",
-    "Clases/2025-04-05 (teoría).md",
-    "Clases/2025-03-29 (teoría).md",
-    "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos contables vs economicos.md",
     "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios",
     "microeconomía/1.3 Produccion y costos/Costos de produccion",
     "microeconomía/1.3 Produccion y costos/Funcion de produccion",

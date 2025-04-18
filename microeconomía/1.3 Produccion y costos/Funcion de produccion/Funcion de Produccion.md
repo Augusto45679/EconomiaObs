@@ -1,4 +1,4 @@
-[[Producto marginal]]
+[[Producción a largo plazo]]
 [[Producto medio]]
 [[Producto total]]
 [[Costos de producción]]
