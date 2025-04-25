@@ -67,12 +67,14 @@
             "id": "704a5fc9bb83194b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Imagenes/Pasted image 20250425120404.png"
+                "file": "microeconomía/1.4 Estructuras de Mercado/Monopolio/Costos del monopolio para el bienestar social.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250425120404"
+              "icon": "lucide-file",
+              "title": "Costos del monopolio para el bienestar social"
             }
           }
         ],
@@ -133,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 413.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d917a3b41cefe00",
@@ -235,14 +238,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78be39188a5963cc",
+  "active": "704a5fc9bb83194b",
   "lastOpenFiles": [
-    "Imagenes/Pasted image 20250425122137.png",
-    "Imagenes/Pasted image 20250425120404.png",
-    "microeconomía/1.4 Estructuras de Mercado/Monopolio/Costos del monopolio para el bienestar social.md",
+    "Pasted image 20250425173359.png",
+    "Pasted image 20250425172756.png",
     "microeconomía/1.4 Estructuras de Mercado/Monopolio/Beneficios de un monopolio.md",
-    "Imagenes/Pasted image 20250425172031.png",
     "microeconomía/1.4 Estructuras de Mercado/Monopolio/Maximización de beneficios en un monopolio.md",
+    "Imagenes/Pasted image 20250425120404.png",
+    "Imagenes/Pasted image 20250425122137.png",
+    "microeconomía/1.4 Estructuras de Mercado/Monopolio/Costos del monopolio para el bienestar social.md",
+    "Imagenes/Pasted image 20250425172031.png",
     "Imagenes/Pasted image 20250425170439.png",
     "microeconomía/1.4 Estructuras de Mercado/Monopolio/Como los monopolios toman sus decisiones de producción y asignación de precios.md",
     "Imagenes/Pasted image 20250425170109.png",
@@ -253,7 +258,6 @@
     "Imagenes/Pasted image 20250425160710.png",
     "microeconomía/1.4 Estructuras de Mercado/Monopolio",
     "Imagenes/Pasted image 20250425125037.png",
-    "Imagenes/Pasted image 20250425125027.png",
     "microeconomía/1.4 Estructuras de Mercado/Maximización de beneficios y curva de oferta de una empresa competitiva.md",
     "microeconomía/1.4 Estructuras de Mercado/Decisión de la empresa de cerrar a corto plazo.md",
     "microeconomía/1.4 Estructuras de Mercado/Costo de oportunidad.md",
