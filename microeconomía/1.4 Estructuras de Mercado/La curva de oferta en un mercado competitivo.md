@@ -61,3 +61,23 @@ Un aumento de la demanda eleva precios y cantidades en el corto plazo, generando
     - Sin embargo, al haber más empresas, la cantidad vendida crece hasta Q₃.
 
 
+## ¿Por qué la curva de oferta a largo plazo tiene pendiente positiva?
+
+
+![[Pasted image 20250425125027.png]]
+![[Pasted image 20250425125037.png]]
+
+**Panel (a) - Situación Inicial:**
+- **Mercado:** El mercado está en equilibrio a largo plazo (punto A). La demanda (D₁) se cruza con la oferta a corto plazo (O₁) y con la _oferta a largo plazo_ (que aquí se muestra como una línea horizontal al nivel del precio P₁). La cantidad total intercambiada es Q₁.
+- **Empresa:** Una empresa representativa opera donde el precio (P₁) es igual a su Costo Marginal (CMg) y a su Costo Total Promedio (CTP) mínimo. Produce la cantidad q₁ y sus beneficios económicos son cero (está justo cubriendo todos sus costos, incluidos los de oportunidad).
+
+**Panel (b) - Respuesta a Corto Plazo:**
+- **Mercado:** Hay un aumento súbito de la demanda (la curva se desplaza a D₂). Como a corto plazo el número de empresas es fijo, el mercado se mueve a lo largo de la curva de oferta a corto plazo (O₁) hasta el punto B. El precio sube a P₂ y la cantidad aumenta a Q₂.
+- **Empresa:** La empresa ve que el precio de mercado sube a P₂. Como P₂ es mayor que su Costo Total Promedio (CTP), ahora tiene beneficios económicos positivos (representados por el área sombreada). Para maximizar estos beneficios, aumenta su producción hasta q₂, donde el nuevo precio P₂ iguala a su Costo Marginal (CMg).
+
+**Panel (c) - Respuesta a Largo Plazo:**
+    - **Mercado:** Los beneficios positivos que obtienen las empresas existentes (vistos en el panel b) atraen a nuevas empresas a entrar al mercado. A medida que entran más empresas, la oferta a corto plazo se desplaza hacia la derecha (de O₁ a O₂). Esta entrada continúa hasta que el precio vuelve a bajar al nivel original P₁, donde los beneficios vuelven a ser cero. El nuevo equilibrio a largo plazo es el punto C. El precio es el mismo (P₁), pero la cantidad total del mercado es mucho mayor (Q₃), porque ahora hay más empresas produciendo.
+    - **Empresa:** Con el precio de vuelta en P₁, la empresa representativa reduce su producción de nuevo a q₁ (el punto de mínimo CTP) y sus beneficios vuelven a ser cero.
+
+> Debido a que las empresas pueden entrar y salir más fácilmente a largo que a corto plazo, la curva de oferta a largo plazo es típicamente más elástica que la curva de oferta a corto plazo.
+

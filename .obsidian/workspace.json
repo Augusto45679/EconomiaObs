@@ -20,8 +20,63 @@
               "icon": "lucide-file",
               "title": "La curva de oferta en un mercado competitivo"
             }
+          },
+          {
+            "id": "562697e808bb8896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "microeconomía/1.4 Estructuras de Mercado/Monopolio/Como los monopolios toman sus decisiones de producción y asignación de precios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Como los monopolios toman sus decisiones de producción y asignación de precios"
+            }
+          },
+          {
+            "id": "6bb0a9f537a129f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "microeconomía/1.4 Estructuras de Mercado/Monopolio/Maximización de beneficios en un monopolio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maximización de beneficios en un monopolio"
+            }
+          },
+          {
+            "id": "c912d1cd07ffe33d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "microeconomía/1.4 Estructuras de Mercado/Monopolio/Beneficios de un monopolio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Beneficios de un monopolio"
+            }
+          },
+          {
+            "id": "704a5fc9bb83194b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imagenes/Pasted image 20250425120404.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250425120404"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -78,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5,
-    "collapsed": true
+    "width": 413.5
   },
   "right": {
     "id": "0d917a3b41cefe00",
@@ -181,23 +235,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec8b5663fbbcadff",
+  "active": "78be39188a5963cc",
   "lastOpenFiles": [
+    "Imagenes/Pasted image 20250425122137.png",
+    "Imagenes/Pasted image 20250425120404.png",
+    "microeconomía/1.4 Estructuras de Mercado/Monopolio/Costos del monopolio para el bienestar social.md",
+    "microeconomía/1.4 Estructuras de Mercado/Monopolio/Beneficios de un monopolio.md",
+    "Imagenes/Pasted image 20250425172031.png",
+    "microeconomía/1.4 Estructuras de Mercado/Monopolio/Maximización de beneficios en un monopolio.md",
+    "Imagenes/Pasted image 20250425170439.png",
+    "microeconomía/1.4 Estructuras de Mercado/Monopolio/Como los monopolios toman sus decisiones de producción y asignación de precios.md",
+    "Imagenes/Pasted image 20250425170109.png",
+    "Imagenes/Pasted image 20250425165753.png",
+    "Imagenes/Pasted image 20250425163130.png",
+    "microeconomía/1.4 Estructuras de Mercado/La curva de oferta en un mercado competitivo.md",
+    "microeconomía/1.4 Estructuras de Mercado/Monopolio/¿Por qué surgen los monopolios?.md",
+    "Imagenes/Pasted image 20250425160710.png",
+    "microeconomía/1.4 Estructuras de Mercado/Monopolio",
+    "Imagenes/Pasted image 20250425125037.png",
+    "Imagenes/Pasted image 20250425125027.png",
+    "microeconomía/1.4 Estructuras de Mercado/Maximización de beneficios y curva de oferta de una empresa competitiva.md",
+    "microeconomía/1.4 Estructuras de Mercado/Decisión de la empresa de cerrar a corto plazo.md",
+    "microeconomía/1.4 Estructuras de Mercado/Costo de oportunidad.md",
+    "microeconomía/1.4 Estructuras de Mercado/Decisión de la empresa de entrar o salir del mercado a largo plazo.md",
     "microeconomía/1.3 Produccion y costos/Costos de produccion/Los costos a largo plazo..md",
     "microeconomía/1.3 Produccion y costos/Costos de produccion/Los costos totales, medios y marginales de largo plazo.md",
-    "microeconomía/1.4 Estructuras de Mercado/Decisión de la empresa de entrar o salir del mercado a largo plazo.md",
-    "microeconomía/1.4 Estructuras de Mercado/La curva de oferta en un mercado competitivo.md",
-    "Pasted image 20250425122137.png",
-    "Pasted image 20250425120404.png",
     "microeconomía/1.4 Estructuras de Mercado/Competencia perfecta ¿Que es?.md",
-    "microeconomía/1.4 Estructuras de Mercado/Costo de oportunidad.md",
-    "microeconomía/1.4 Estructuras de Mercado/Decisión de la empresa de cerrar a corto plazo.md",
-    "microeconomía/1.4 Estructuras de Mercado/Maximización de beneficios y curva de oferta de una empresa competitiva.md",
-    "Imagenes/Pasted image 20250425112137.png",
-    "Imagenes/Pasted image 20250425110924.png",
-    "Imagenes/Pasted image 20250424124752.png",
-    "Imagenes/Pasted image 20250425104928.png",
-    "Imagenes/Pasted image 20250424130240.png",
     "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Beneficio económicos y contables.md",
     "microeconomía/1.3 Produccion y costos/Produccion vs Costos.md",
     "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Beneficios normales.md",
@@ -205,19 +268,11 @@
     "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Maximizacion de beneficios.md",
     "microeconomía/1.2 Mercados y Equilibrio/Demanda/Factores subyacentes de la Demanda..md",
     "microeconomía/Agentes economicos.md",
-    "Imagenes/Pasted image 20250424111108.png",
     "microeconomía/1.3 Produccion y costos/Resumen corto y largo + beneficios.md",
     "microeconomía/1.3 Produccion y costos/Rendimientos de escala..md",
-    "Imagenes/Pasted image 20250424102337.png",
-    "Imagenes/Pasted image 20250424100851.png",
     "microeconomía/1.3 Produccion y costos/Costos de produccion/Los costos de producción- el corto y el largo plazo.md",
     "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos de producción.md",
     "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos contables, explícitos, económicos e implícitos.md",
-    "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos a corto plazo.md",
-    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Beneficio economico.md",
-    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Perdidas.md",
-    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Regla maximización IM = CM.md",
-    "microeconomía/1.3 Produccion y costos/Funcion de produccion/Producto total.md",
     "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios",
     "microeconomía/1.3 Produccion y costos/Costos de produccion",
     "microeconomía/1.3 Produccion y costos/Funcion de produccion",
@@ -227,7 +282,6 @@
     "Precios mínimos",
     "microeconomía/1.2 Mercados y Equilibrio/Regulaciones",
     "Otros",
-    "Clases",
     "Sin título.canvas"
   ]
 }
