@@ -1,7 +1,7 @@
 
 ## Pérdida irrecuperable de eficiencia o pérdida social 
 
-Se supone el caso de un planificador social benevolo. Se interesaría no solo en los bienes de los propietarios de la empresa sino tambien en los beneficios que recibirian los consumidores.  El flaco trataría de maximizar el excedente total, que es igual al excedente del productor (los beneficios) más el excedente del consumidor. 
+Se supone el caso de un planificador social benevolo. Se interesaría no solo en los bienes de los propietarios de la empresa sino tambien en los beneficios que recibirían los consumidores.  El flaco trataría de maximizar el excedente total, que es igual al excedente del productor (los beneficios) más el excedente del consumidor. 
 
 ![[Pasted image 20250425172756.png]]
 
