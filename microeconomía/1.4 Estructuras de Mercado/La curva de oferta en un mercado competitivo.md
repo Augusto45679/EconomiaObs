@@ -1,4 +1,4 @@
-
+	
 *Es necesario considerar dos casos*:
 1. Primero estudiaremos el mercado con un número fijo de empresas
 2. Segundo, examinaremos un mercado en el cual el número de empresas varía a medida que las más antiguas salen del mercado y entran otras nuevas
