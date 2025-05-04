@@ -1,6 +1,6 @@
-*concepto -> La economia, es el estudio de como la sociedad admisnistra sus recrusos escasos.*
+Concepto -> La economía, es el estudio de como la sociedad administra sus recursos escasos.*
 
-**La economia es una ciencia que estudia los recursos escazos para producir bienes y servicios, y distribuirlos entre los distintos individuos. 
+**La economía es una ciencia que estudia los recursos escazos para producir bienes y servicios, y distribuirlos entre los distintos individuos. 
 
 [[1° Las personas enfrentan disyuntivas]]
 [[2° El costo de algo es aquello  a lo que se renuncia para obtenerlo- Costo de oportunidad]]

@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "b3efb5ebf36fb61a",
+        "id": "bf29d9bb28c65d7b",
         "type": "tabs",
+        "dimension": 26.456477039067853,
         "children": [
           {
             "id": "ec8b5663fbbcadff",
@@ -13,12 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microeconomía/1.4 Estructuras de Mercado/La curva de oferta en un mercado competitivo.md",
+                "file": "ProgramaAnalitico/Programa de economia 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La curva de oferta en un mercado competitivo"
+              "title": "Programa de economia 2025"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b3efb5ebf36fb61a",
+        "type": "tabs",
+        "dimension": 73.54352296093215,
+        "children": [
+          {
+            "id": "ff270e22f906477f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imagenes/Pasted image 20250429225437.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250429225437"
             }
           }
         ]
@@ -44,7 +64,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -78,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5,
-    "collapsed": true
+    "width": 249.51103591918945
   },
   "right": {
     "id": "0d917a3b41cefe00",
@@ -172,54 +191,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec8b5663fbbcadff",
+  "active": "78be39188a5963cc",
   "lastOpenFiles": [
-    "microeconomía/1.4 Estructuras de Mercado/Monopolio/PoliticaPublicaMonopolios/Intro.md",
-    "microeconomía/1.4 Estructuras de Mercado/Monopolio/PoliticaPublicaMonopolios/Incremento de la competencia con leyes antimonopolio.md",
-    "Pasted image 20250429225437.png",
-    "microeconomía/1.4 Estructuras de Mercado/La curva de oferta en un mercado competitivo.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Demanda/Curva de Demanda..md",
+    "microeconomía/1.2 Mercados y Equilibrio/Oferta/Curva de Oferta.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Movimiento vs Desplazamiento..md",
+    "microeconomía/1.2 Mercados y Equilibrio/Equilibrio de mercado..md",
+    "microeconomía/1.2 Mercados y Equilibrio/Mercado.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Mercado competitivo.md",
+    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/10° En el corto plazo la sociedad enfrenta a corto plazo una disyuntiva entre inflación y desempleo.md",
+    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/9° Cuando el gobierno imprime demasiado dinero, los precios se incrementan.md",
+    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/8°  El nivel de vida de un país depende de su capacidad para producir bienes y servicios.md",
+    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/7° El gobierno puede mejorar algunas veces los resultados del mercado.md",
+    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/6° Los mercados son por lo general un buen mecanismo para organizar la actividad  económica.md",
+    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/5°  El comercio puede mejorar el bienestar de todos.md",
+    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/4° Las personas responden a los incentivos.md",
+    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/3° Las personas racionales  piensan en términos marginales.md",
+    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/2° El costo de algo es aquello  a lo que se renuncia para obtenerlo- Costo de oportunidad.md",
+    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/1° Las personas enfrentan disyuntivas.md",
+    "microeconomía/1.1 Fundamentos economicos/Frontera de posibilidades de produccion- FPP (2° modelo económico).md",
+    "microeconomía/1.1 Fundamentos economicos/Diagrama de flujo circular (1°modelo económico).md",
+    "microeconomía/1.1 Fundamentos economicos/Respuesta de lo que da la economía.md",
+    "microeconomía/1.1 Fundamentos economicos/Supuestos (el rol de los supuestos).md",
+    "microeconomía/1.1 Fundamentos economicos/Modelos economicos.md",
+    "ProgramaAnalitico/Programa de economia 2025.md",
+    "microeconomía/1.1 Fundamentos economicos/Concepto y metodo en economia.md",
+    "microeconomía/Variables endógenas.md",
+    "microeconomía/Variables exógenas.md",
+    "microeconomía/Variables.md",
+    "Imagenes/Pasted image 20250429225437.png",
     "microeconomía/1.4 Estructuras de Mercado/Monopolio/PoliticaPublicaMonopolios",
-    "microeconomía/1.4 Estructuras de Mercado/Monopolio/Como los monopolios toman sus decisiones de producción y asignación de precios.md",
-    "microeconomía/1.4 Estructuras de Mercado/Monopolio/Maximización de beneficios en un monopolio.md",
-    "microeconomía/1.4 Estructuras de Mercado/Monopolio/Beneficios de un monopolio.md",
-    "microeconomía/1.4 Estructuras de Mercado/Monopolio/Costos del monopolio para el bienestar social.md",
-    "microeconomía/1.4 Estructuras de Mercado/Monopolio/Discriminación de precios.md",
-    "microeconomía/1.4 Estructuras de Mercado/Monopolio/Por qué surgen los monopolios.md",
-    "microeconomía/1.4 Estructuras de Mercado/Competencia perfecta_Que es.md",
-    "Pasted image 20250429175626.png",
-    "Pasted image 20250425173359.png",
-    "Pasted image 20250425172756.png",
+    "Imagenes/Pasted image 20250429175626.png",
+    "Imagenes/Pasted image 20250425173359.png",
+    "Imagenes/Pasted image 20250425172756.png",
     "Imagenes/Pasted image 20250425120404.png",
     "Imagenes/Pasted image 20250425122137.png",
     "Imagenes/Pasted image 20250425172031.png",
     "Imagenes/Pasted image 20250425170439.png",
     "Imagenes/Pasted image 20250425170109.png",
     "Imagenes/Pasted image 20250425165753.png",
-    "microeconomía/1.4 Estructuras de Mercado/Monopolio/¿Por qué surgen los monopolios?.md",
     "microeconomía/1.4 Estructuras de Mercado/Monopolio",
-    "microeconomía/1.4 Estructuras de Mercado/Maximización de beneficios y curva de oferta de una empresa competitiva.md",
-    "microeconomía/1.4 Estructuras de Mercado/Decisión de la empresa de cerrar a corto plazo.md",
-    "microeconomía/1.4 Estructuras de Mercado/Costo de oportunidad.md",
-    "microeconomía/1.4 Estructuras de Mercado/Decisión de la empresa de entrar o salir del mercado a largo plazo.md",
-    "microeconomía/1.3 Produccion y costos/Costos de produccion/Los costos a largo plazo..md",
-    "microeconomía/1.3 Produccion y costos/Costos de produccion/Los costos totales, medios y marginales de largo plazo.md",
-    "microeconomía/1.4 Estructuras de Mercado/Competencia perfecta ¿Que es?.md",
-    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Beneficio económicos y contables.md",
-    "microeconomía/1.3 Produccion y costos/Produccion vs Costos.md",
-    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Beneficios normales.md",
-    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Beneficios extraordinarios.md",
-    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Maximizacion de beneficios.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Demanda/Factores subyacentes de la Demanda..md",
-    "microeconomía/Agentes economicos.md",
     "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios",
     "microeconomía/1.3 Produccion y costos/Costos de produccion",
     "microeconomía/1.3 Produccion y costos/Funcion de produccion",

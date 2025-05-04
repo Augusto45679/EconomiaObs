@@ -5,7 +5,7 @@
 * Def. **Cambio Marginal: Pequeños ajustes adicionales que se le hacen a un plan de acción.
 
 
-Así como yo tengo empresas que deciden cuantos trabajadores contratan, cuanto producen y venden con la finalidad de maximizar sus beneficios. Las personas los hacen de igual manera en cuanto tiempo trabajan, bienes y servicios que deben adquirir con su ingresos, con la finalidad de lograr la mayor satisfaccion posible. 
+Así como yo tengo empresas que deciden cuantos trabajadores contratan, cuanto producen y venden con la finalidad de **maximizar sus beneficios**. *Las personas los hacen de igual manera en cuanto tiempo trabajan, bienes y servicios que deben adquirir con su ingresos, con la finalidad de lograr la mayor satisfacción posible.* 
 
 
 *Las personas racionales a menudo toman decisiones al comparar los beneficios marginales y los costos marginales.*

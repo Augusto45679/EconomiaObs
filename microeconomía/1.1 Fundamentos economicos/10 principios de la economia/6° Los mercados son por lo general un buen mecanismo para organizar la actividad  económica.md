@@ -1,4 +1,4 @@
-## Los mercados son generalmente un buen mecanismo para organizar la actividad econ´omica (economía de mercado vs centralización economía).
+## Los mercados son generalmente un buen mecanismo para organizar la actividad económica (economía de mercado vs centralización economía).
 
 * **Def. Economia de mercado: una economía que asigna sus recursos mediante las decisiones descentralizadas de numerosos hogares y empresas que interaccionan en el mercado para conseguir bienes y servicios.
 

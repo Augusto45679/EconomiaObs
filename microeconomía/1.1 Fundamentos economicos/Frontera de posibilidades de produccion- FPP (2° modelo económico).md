@@ -16,7 +16,7 @@ La figura 2 muestra dos bienes producidos, computadoras y autos. Puede ser un bi
 
 La forma cóncava de la frontera refleja el **costo de oportunidad creciente**. Esto significa que a medida que la economía produce más de un bien, el costo de oportunidad de producir una unidad adicional de ese bien (en términos del otro bien sacrificado) aumenta. *Por ejemplo, al pasar del punto A al punto B, se producen más automóviles pero se sacrifican computadoras, y el costo de oportunidad de cada automóvil adicional es mayor a medida que se producen más.
 
-Osea que al pasar del punto A al B yo estoy sacrificando 2 computadoras por 1 Auto. 
+O sea que al pasar del punto A al B yo estoy sacrificando 2 computadoras por 1 Auto. 
 
 - **Puntos en la frontera (puntos eficientes):** Representan combinaciones de producción eficientes. Por ejemplo, el punto A podría representar la producción de 600 automóviles y 2200 computadoras, utilizando todos los recursos disponibles.
 - **Puntos dentro de la frontera (puntos ineficientes):** Representan combinaciones de producción ineficientes. Por ejemplo, el punto X (no especificado en el texto, pero conceptualmente posible en la gráfica) indicaría que la economía podría producir más de ambos bienes sin utilizar recursos adicionales. *Ejemplo de esto sería el punto D
