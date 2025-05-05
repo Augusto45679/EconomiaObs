@@ -1,4 +1,4 @@
-[[Curva de Demanda.]]
+		[[Curva de Demanda.]]
 
 Def. **Elasticidad precio de la demanda**: *una medida de que tanto la cantidad demanda de un bien responde a un cambio en el precio de dicho bien. Se calcula como el cambio porcentual en la cantidad demandada dividido entre el cambio porcentual en el precio.*
 
