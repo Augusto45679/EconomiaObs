@@ -4,9 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "bf29d9bb28c65d7b",
+        "id": "2939970fdc23f1f2",
         "type": "tabs",
-        "dimension": 26.456477039067853,
+        "dimension": 28.08219178082192,
         "children": [
           {
             "id": "ec8b5663fbbcadff",
@@ -25,20 +25,22 @@
         ]
       },
       {
-        "id": "b3efb5ebf36fb61a",
+        "id": "bf29d9bb28c65d7b",
         "type": "tabs",
-        "dimension": 73.54352296093215,
+        "dimension": 71.91780821917808,
         "children": [
           {
-            "id": "ff270e22f906477f",
+            "id": "321e2f1d969becc6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Imagenes/Pasted image 20250429225437.png"
+                "file": "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad Ingreso.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250429225437"
+              "icon": "lucide-file",
+              "title": "Elasticidad Ingreso"
             }
           }
         ]
@@ -200,14 +202,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78be39188a5963cc",
+  "active": "321e2f1d969becc6",
   "lastOpenFiles": [
+    "microeconomía/1.2 Mercados y Equilibrio/Demanda/Factores subyacentes de la Demanda..md",
     "microeconomía/1.2 Mercados y Equilibrio/Demanda/Curva de Demanda..md",
+    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad Ingreso.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad precio de la demanda.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad precio de la oferta.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad Cruzada.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Tipos de elasticidad.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Relación Elasticidad-Ingreso total.md",
     "microeconomía/1.2 Mercados y Equilibrio/Oferta/Curva de Oferta.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Movimiento vs Desplazamiento..md",
+    "microeconomía/1.2 Mercados y Equilibrio/Regulaciones/Impuestos.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Regulaciones/Precios mínimos.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Regulaciones/Subsidios.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Regulaciones/Precios máximos.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Oferta/Factores subyacentes de la Oferta.md",
     "microeconomía/1.2 Mercados y Equilibrio/Equilibrio de mercado..md",
+    "Imagenes/FactoresSuubyacentesDemanda.png",
+    "ProgramaAnalitico/Programa de economia 2025.md",
     "microeconomía/1.2 Mercados y Equilibrio/Mercado.md",
     "microeconomía/1.2 Mercados y Equilibrio/Mercado competitivo.md",
+    "microeconomía/1.2 Mercados y Equilibrio/Movimiento vs Desplazamiento..md",
+    "Imagenes/Pasted image 20250429225437.png",
     "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/10° En el corto plazo la sociedad enfrenta a corto plazo una disyuntiva entre inflación y desempleo.md",
     "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/9° Cuando el gobierno imprime demasiado dinero, los precios se incrementan.md",
     "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/8°  El nivel de vida de un país depende de su capacidad para producir bienes y servicios.md",
@@ -215,20 +232,6 @@
     "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/6° Los mercados son por lo general un buen mecanismo para organizar la actividad  económica.md",
     "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/5°  El comercio puede mejorar el bienestar de todos.md",
     "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/4° Las personas responden a los incentivos.md",
-    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/3° Las personas racionales  piensan en términos marginales.md",
-    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/2° El costo de algo es aquello  a lo que se renuncia para obtenerlo- Costo de oportunidad.md",
-    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/1° Las personas enfrentan disyuntivas.md",
-    "microeconomía/1.1 Fundamentos economicos/Frontera de posibilidades de produccion- FPP (2° modelo económico).md",
-    "microeconomía/1.1 Fundamentos economicos/Diagrama de flujo circular (1°modelo económico).md",
-    "microeconomía/1.1 Fundamentos economicos/Respuesta de lo que da la economía.md",
-    "microeconomía/1.1 Fundamentos economicos/Supuestos (el rol de los supuestos).md",
-    "microeconomía/1.1 Fundamentos economicos/Modelos economicos.md",
-    "ProgramaAnalitico/Programa de economia 2025.md",
-    "microeconomía/1.1 Fundamentos economicos/Concepto y metodo en economia.md",
-    "microeconomía/Variables endógenas.md",
-    "microeconomía/Variables exógenas.md",
-    "microeconomía/Variables.md",
-    "Imagenes/Pasted image 20250429225437.png",
     "microeconomía/1.4 Estructuras de Mercado/Monopolio/PoliticaPublicaMonopolios",
     "Imagenes/Pasted image 20250429175626.png",
     "Imagenes/Pasted image 20250425173359.png",
@@ -238,7 +241,6 @@
     "Imagenes/Pasted image 20250425172031.png",
     "Imagenes/Pasted image 20250425170439.png",
     "Imagenes/Pasted image 20250425170109.png",
-    "Imagenes/Pasted image 20250425165753.png",
     "microeconomía/1.4 Estructuras de Mercado/Monopolio",
     "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios",
     "microeconomía/1.3 Produccion y costos/Costos de produccion",

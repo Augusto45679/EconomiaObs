@@ -11,18 +11,18 @@ La ley de la demanda expresa que la disminución del precio de un bien X increme
 
 Estos serían como factores que hacen más sensible o no la elasticidad. O más bien reglas generales acerca de lo que influye en la elasticidad precio de la demanda.
 
-1. ***Disponibilidad de sustitutos cercanos***: los bienes sustitutos cercanos tienden a tener demandas más elásticas, debido a que es mas fácil cambiar de un bien a otro. 
+>1. ***Disponibilidad de sustitutos cercanos***: los bienes sustitutos cercanos tienden a tener demandas más elásticas, debido a que es mas fácil cambiar de un bien a otro. 
 	*Ejemplo; la manteca y margarina son fáciles de sustituir entre sí.*
 	
-2. ***Necesidades frente a lujos***: las necesidades tienden a tener demandas inelásticas, mientras que los lujos elásticas. 
+>2. ***Necesidades frente a lujos***: las necesidades tienden a tener demandas inelásticas, mientras que los lujos elásticas. 
 	 *Ejemplo; si aumenta la consulta para visitar a un médico la gente no deja de ir al médico, se trata de algo inelástico, es una necesidad, la demanda sigue igual.* 
 	 *Si el precio de un McLaren aumenta la cantidad demandada de McLaren's disminuye.*
 	 
-3. ***Definición del mercado***: Entre más definido sea el mercado, se tiene a tener **demandas más elásticas** que los mercados en un sentido más amplio, porque se vuelve más fácil encontrar sustitutos cercanos para los bienes de mercados más estrechos.  
+>3. ***Definición del mercado***: Entre más definido sea el mercado, se tiene a tener **demandas más elásticas** que los mercados en un sentido más amplio, porque se vuelve más fácil encontrar sustitutos cercanos para los bienes de mercados más estrechos.  
 	 *Ejemplo; la comida es una categoría amplia, tiene una demanda inelástica, porque no hay buenos sustitutos para la comida.* 
 	 *El helado por ejemplo sería una categoría mejor definida, tiene una demanda más elástica ya que puede ser tranquilamente reemplazada por otro postre.*
 	 
-4. ***Horizonte de tiempo***: los bienes tienden a tener **demandas más elásticas** entre más amplio sea el horizonte de tiempo. 
+>4. ***Horizonte de tiempo***: los bienes tienden a tener **demandas más elásticas** entre más amplio sea el horizonte de tiempo. 
 	 *Ejemplo; si el precio de la nafta aumenta, la cantidad demanda de gasolina cae ligeramente los primeros meses. Depúes de un tiempo, las personan compran autos autos que consumen menos nafta | usan el colectivo | se mudan cerca del trabajo, despues de unos años la cantidad demandada de nafta disminuye de forma significativa*.
 
 

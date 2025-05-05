@@ -2,7 +2,7 @@
 [[Elasticidad Ingreso]]
 
 
-La [[Curva de Demanda.]] determina la relación entre la cantidad del bien demandado y su precio en un periodo determinado, permanenciendo cnstantes otros factores que afectan la demanda de bienes ([[Ceteris Paribus]]).
+La [[Curva de Demanda.]] determina la relación entre la cantidad del bien demandado y su precio en un periodo determinado, permaneciendo constantes otros factores que afectan la demanda de bienes ([[Ceteris Paribus]]).
 
 ### ¿Cuáles son los factores subyacentes? 
 
