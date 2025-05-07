@@ -14,7 +14,7 @@ Se consideran 1000 empresas. A cualquier precio dado, cada empresa ofrece una ca
 
 ### El largo plazo: oferta del mercado con entradas y salidas
 
-En competencia perfecta, todas las empresas pueden entrar y salir del mercado (teoricamente no hay barreras) y además la información es perfecta, o sea que todas saben como producir el bien y de la mejor manera. Por ende, todas tienen la misma curva de costos. Pero la realidad es que la decisión de entrar o salir del mercado son los incentivos, o sea, si las empresas son rentables van a querer entrar al mercado. Esto incrementaría la cantidad de empresas que producen y ofrecen bienes , lo que hará disminuir el beneficio. 
+En competencia perfecta, todas las empresas pueden entrar y salir del mercado (teóricamente no hay barreras) y además la información es perfecta, o sea que todas saben como producir el bien y de la mejor manera. Por ende, todas tienen la misma curva de costos. Pero la realidad es que la decisión de entrar o salir del mercado son los incentivos, o sea, si las empresas son rentables van a querer entrar al mercado. Esto incrementaría la cantidad de empresas que producen y ofrecen bienes , lo que hará disminuir el beneficio. 
 
 Pero si las empresas tienen perdidas tenderán a salir del mercado. Su salida reducirá el número de empresas, disminuirá la cantidad ofrecida del bien e incrementará los precios y los beneficios.
 

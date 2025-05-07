@@ -1,4 +1,4 @@
-[[Producción a largo plazo]]
+		[[Producción a largo plazo]]
 [[Producto medio]]
 [[Producto total]]
 [[Costos de producción]]
@@ -35,7 +35,7 @@ La **curva de producto** total muestra la relación entre la cantidad de un fact
 
 #### Ley de los rendimientos decrecientes
 
-Esta ley se refiere a la cantidad de producto adicional que se obtiene cuando se añaden sucesivamente unidades adicionales iguales de un factor variable a una cantidad fija de uno o varios factores.
+	Esta ley se refiere a la cantidad de producto adicional que se obtiene cuando se añaden sucesivamente unidades adicionales iguales de un factor variable a una cantidad fija de uno o varios factores.
 
 Según esta ley a partir de cierto nivel de empleo se obtienen cantidades de producto sucesivamente menores al añadir dosis iguales de un factor variable a una cantidad fija de un factor. 
 
@@ -51,6 +51,4 @@ El producto medio del trabajo se lo suele denominar ***productividad del trabajo
 muy importante la fig b) y el cuadro de abajo donde se compara #leer 
 
 El máximo producto o productividad media se denomina **optimo  técnico**.
-
-## La producción y el largo plazo
 

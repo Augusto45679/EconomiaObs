@@ -20,8 +20,7 @@ El $IMg = dIT / dQ$ sigue siendo lo mismo (los deltas o derivada), el ingreso pr
 
 El ingreso marginal de los monopolios es muy diferente del ingreso marginal de las empresas competitivas. Cuando un monopolio incrementa la cantidad que vende, produce dos efectos en el ingreso total ($P * Q$):
 	• ***El efecto producto***: se vende más producto, por lo que Q es mayor, lo que hace que aumente el ingreso total.
-	• ***El efecto precio***: el precio disminuye, por lo que P es menor, lo que hace que se 
-	reduzca el ingreso total.
+	• ***El efecto precio***: el precio disminuye, por lo que P es menor, lo que hace que se reduzca el ingreso total.
 
 
 ![[Pasted image 20250425165753.png]]

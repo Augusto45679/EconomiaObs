@@ -1,54 +1,46 @@
 {
   "main": {
-    "id": "8ab8adb760c16d3a",
+    "id": "88e9c131498b5185",
     "type": "split",
     "children": [
       {
-        "id": "2939970fdc23f1f2",
+        "id": "c09b0ffb2bf16ea5",
         "type": "tabs",
-        "dimension": 28.08219178082192,
+        "dimension": 61.07445805843545,
         "children": [
           {
-            "id": "ec8b5663fbbcadff",
+            "id": "b59e518f52d4b488",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "ProgramaAnalitico/Programa de economia 2025.md",
-=======
-                "file": "macroeconomia/clasesMacro/ClaseMacro 2025-05-03.md",
->>>>>>> bbbe15d (macro)
+                "file": "microeconomía/1.4 Estructuras de Mercado/Monopolio/Beneficios de un monopolio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Programa de economia 2025"
+              "title": "Beneficios de un monopolio"
             }
           }
         ]
       },
       {
-        "id": "bf29d9bb28c65d7b",
+        "id": "499dc72940ee724d",
         "type": "tabs",
-        "dimension": 71.91780821917808,
+        "dimension": 38.92554194156456,
         "children": [
           {
-            "id": "321e2f1d969becc6",
+            "id": "061f003ec07ef727",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad precio de la oferta.md",
+                "file": "ProgramaAnalitico/Programa de economia 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elasticidad precio de la oferta"
-=======
-              "title": "ClaseMacro 2025-05-03"
->>>>>>> bbbe15d (macro)
+              "title": "Programa de economia 2025"
             }
           }
         ]
@@ -57,15 +49,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "40d3fb5abea0cfce",
+    "id": "9982377de70e839b",
     "type": "split",
     "children": [
       {
-        "id": "4efbb62903d69435",
+        "id": "b7fb73961ed7d5e6",
         "type": "tabs",
         "children": [
           {
-            "id": "78be39188a5963cc",
+            "id": "c533066940de945a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -74,11 +66,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
-            "id": "7481962be91536ff",
+            "id": "2a1a645d76914133",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -91,40 +83,40 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
-            "id": "d1e3341f22da34d3",
+            "id": "f0325250074e75f1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 249.51103591918945
+    "width": 261.5
   },
   "right": {
-    "id": "0d917a3b41cefe00",
+    "id": "48afa6bb895d75e4",
     "type": "split",
     "children": [
       {
-        "id": "f97c7d6b57d796fd",
+        "id": "1ddea9b09336f905",
         "type": "tabs",
         "children": [
           {
-            "id": "a946637a7d239c80",
+            "id": "0f6ce61aafb802b6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "práctica/matematica-financiera/Interés compuesto y simple.md",
+                "file": "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad Ingreso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,25 +126,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Interés compuesto y simple"
+              "title": "Backlinks for Elasticidad Ingreso"
             }
           },
           {
-            "id": "31e96721cad19d9e",
+            "id": "63f14e1889429a82",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "práctica/matematica-financiera/Interés compuesto y simple.md",
+                "file": "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad Ingreso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Interés compuesto y simple"
+              "title": "Outgoing links from Elasticidad Ingreso"
             }
           },
           {
-            "id": "56f1f6d5557aea10",
+            "id": "bfd5c7432947b0a4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -167,32 +159,21 @@
             }
           },
           {
-            "id": "446de3736936bf19",
+            "id": "e08599fb626bbd6e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "práctica/matematica-financiera/Interés compuesto y simple.md",
+                "file": "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad Ingreso.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Interés compuesto y simple"
-            }
-          },
-          {
-            "id": "3b13250e2c7f6df7",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of Elasticidad Ingreso"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,88 +182,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "321e2f1d969becc6",
+  "active": "b59e518f52d4b488",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad precio de la demanda.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad precio de la oferta.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Relación Elasticidad-Ingreso total.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Tipos de elasticidad.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Movimiento vs Desplazamiento..md",
-    "microeconomía/1.2 Mercados y Equilibrio/Oferta/Curva de Oferta.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Oferta/Factores subyacentes de la Oferta.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Equilibrio de mercado..md",
-    "microeconomía/1.2 Mercados y Equilibrio/Regulaciones/Subsidios.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Regulaciones/Precios mínimos.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Regulaciones/Impuestos.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Regulaciones/Precios máximos.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad Ingreso.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad Cruzada.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Demanda/Curva de Demanda..md",
-    "microeconomía/1.2 Mercados y Equilibrio/Demanda/Factores subyacentes de la Demanda..md",
-    "Imagenes/FactoresSuubyacentesDemanda.png",
+    "microeconomía/1.4 Estructuras de Mercado/Monopolio/Costos del monopolio para el bienestar social.md",
+    "microeconomía/1.4 Estructuras de Mercado/Monopolio/Como los monopolios toman sus decisiones de producción y asignación de precios.md",
+    "microeconomía/1.4 Estructuras de Mercado/Monopolio/Discriminación de precios.md",
+    "microeconomía/1.4 Estructuras de Mercado/Monopolio/Maximización de beneficios en un monopolio.md",
+    "microeconomía/1.4 Estructuras de Mercado/Monopolio/Beneficios de un monopolio.md",
     "ProgramaAnalitico/Programa de economia 2025.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Mercado.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Mercado competitivo.md",
-    "Imagenes/Pasted image 20250429225437.png",
-    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/10° En el corto plazo la sociedad enfrenta a corto plazo una disyuntiva entre inflación y desempleo.md",
-    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/9° Cuando el gobierno imprime demasiado dinero, los precios se incrementan.md",
-    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/8°  El nivel de vida de un país depende de su capacidad para producir bienes y servicios.md",
-    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/7° El gobierno puede mejorar algunas veces los resultados del mercado.md",
-    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/6° Los mercados son por lo general un buen mecanismo para organizar la actividad  económica.md",
-    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/5°  El comercio puede mejorar el bienestar de todos.md",
-    "microeconomía/1.1 Fundamentos economicos/10 principios de la economia/4° Las personas responden a los incentivos.md",
-=======
-    "Untitled.md",
-    "macroeconomia/clasesMacro/ClaseMacro 2025-05-03.md",
-    "microeconomía/1.4 Estructuras de Mercado/La curva de oferta en un mercado competitivo.md",
-    "macroeconomia/clasesMacro",
-    "macroeconomia",
-    "microeconomía/1.4 Estructuras de Mercado/Monopolio/PoliticaPublicaMonopolios/Intro.md",
-    "microeconomía/1.4 Estructuras de Mercado/Monopolio/PoliticaPublicaMonopolios/Incremento de la competencia con leyes antimonopolio.md",
-    "Pasted image 20250429225437.png",
->>>>>>> bbbe15d (macro)
-    "microeconomía/1.4 Estructuras de Mercado/Monopolio/PoliticaPublicaMonopolios",
-    "Imagenes/Pasted image 20250429175626.png",
-    "Imagenes/Pasted image 20250425173359.png",
-    "Imagenes/Pasted image 20250425172756.png",
-    "Imagenes/Pasted image 20250425120404.png",
-    "Imagenes/Pasted image 20250425122137.png",
-    "Imagenes/Pasted image 20250425172031.png",
-    "Imagenes/Pasted image 20250425170439.png",
-    "Imagenes/Pasted image 20250425170109.png",
-    "microeconomía/1.4 Estructuras de Mercado/Monopolio",
-<<<<<<< HEAD
-=======
+    "microeconomía/1.4 Estructuras de Mercado/Monopolio/Por qué surgen los monopolios.md",
     "microeconomía/1.4 Estructuras de Mercado/Maximización de beneficios y curva de oferta de una empresa competitiva.md",
-    "microeconomía/1.4 Estructuras de Mercado/Decisión de la empresa de cerrar a corto plazo.md",
+    "microeconomía/1.4 Estructuras de Mercado/Competencia perfecta_Que es.md",
     "microeconomía/1.4 Estructuras de Mercado/Costo de oportunidad.md",
+    "microeconomía/1.4 Estructuras de Mercado/Decisión de la empresa de cerrar a corto plazo.md",
     "microeconomía/1.4 Estructuras de Mercado/Decisión de la empresa de entrar o salir del mercado a largo plazo.md",
-    "microeconomía/1.3 Produccion y costos/Costos de produccion/Los costos a largo plazo..md",
-    "microeconomía/1.3 Produccion y costos/Costos de produccion/Los costos totales, medios y marginales de largo plazo.md",
-    "microeconomía/1.4 Estructuras de Mercado/Competencia perfecta ¿Que es?.md",
+    "microeconomía/1.4 Estructuras de Mercado/La curva de oferta en un mercado competitivo.md",
+    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Beneficio economico.md",
     "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Beneficio económicos y contables.md",
-    "microeconomía/1.3 Produccion y costos/Produccion vs Costos.md",
-    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Beneficios normales.md",
-    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Beneficios extraordinarios.md",
+    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Regla maximización IM = CM.md",
+    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Perdidas.md",
     "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Maximizacion de beneficios.md",
-    "microeconomía/1.2 Mercados y Equilibrio/Demanda/Factores subyacentes de la Demanda..md",
->>>>>>> bbbe15d (macro)
-    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios",
-    "microeconomía/1.3 Produccion y costos/Costos de produccion",
-    "microeconomía/1.3 Produccion y costos/Funcion de produccion",
-    "microeconomía/1.3 Produccion y costos/Empresa y figura del empresario",
-    "microeconomía/1.3 Produccion y costos/intro-empresa y productividad",
-    "microeconomía/1.2 Mercados y Equilibrio/Elasticidad",
-    "Sin título.canvas"
+    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Beneficios extraordinarios.md",
+    "microeconomía/1.3 Produccion y costos/Maximizacion de beneficios/Beneficios normales.md",
+    "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos contables, explícitos, económicos e implícitos.md",
+    "microeconomía/1.3 Produccion y costos/Costos de produccion/Los costos totales, medios y marginales de largo plazo.md",
+    "microeconomía/1.3 Produccion y costos/Empresa y figura del empresario/Empresa y empresario.md",
+    "microeconomía/1.3 Produccion y costos/Costos de produccion/Los costos de producción- el corto y el largo plazo.md",
+    "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos de producción.md",
+    "microeconomía/1.3 Produccion y costos/Costos de produccion/Los costos a largo plazo..md",
+    "Imagenes/Pasted image 20250418160034.png"
   ]
 }

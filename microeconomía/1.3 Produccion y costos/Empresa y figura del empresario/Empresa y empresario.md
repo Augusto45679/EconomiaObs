@@ -4,7 +4,7 @@
 [[Factores de la productividad]]
 
 
-Las empresas producen bienes y servicios que ofrecen y son los que necesitamos para vivir. El nivel de viida de un pais está ampliamente relacioando a su capacidad de producir bienes y servicios, o sea, su sistema productivo. 
+Las empresas producen bienes y servicios que ofrecen y son los que necesitamos para vivir. El nivel de vida de un país está ampliamente relacionado a su capacidad de producir bienes y servicios, o sea, su sistema productivo. 
 
 Def. ***Productividad***: *como la cantidad de bienes y servicios producidos por un trabajador en una hora.*
 

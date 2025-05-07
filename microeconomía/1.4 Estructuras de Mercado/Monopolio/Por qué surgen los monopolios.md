@@ -13,8 +13,7 @@ Las barreras de entrada tienen tres causas principales:
 
 ### Recursos de un monopolio 
 
-La manera más sencilla de que surja un monopolio es que una sola empresa sea
-propietaria de un recurso clave.
+La manera más sencilla de que surja un monopolio es que una sola empresa sea propietaria de un recurso clave.
 
 
 ## Monopolios naturales

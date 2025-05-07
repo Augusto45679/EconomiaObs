@@ -30,7 +30,7 @@ De todo esto se infiere que:
 ## La curva de costo marginal a largo plazo $CMg$ 
 
 $CMgL$
-	La curva de **costo marginal de largo plazo** ($CMgL$) muestra el *costo adicional necesario para obtener una unidad más de producción cuando todos los factores son totalmente variables*, de forma que éstos se pueden modificar óptimamente **a fin de minimizar los costos**.
+> La curva de **costo marginal de largo plazo** ($CMgL$) muestra el *costo adicional necesario para obtener una unidad más de producción cuando todos los factores son totalmente variables*, de forma que éstos se pueden modificar óptimamente **a fin de minimizar los costos**.
 
 El costo marginal de largo plazo aumenta mucho más lento que el costo marginal a corto plazo , la justificación de esto es que a largo plazo la ley de rendimientos decrecientes es menos importante.
 
