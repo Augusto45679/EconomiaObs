@@ -1,4 +1,4 @@
-[[Curva de Oferta]]
+|[[Curva de Oferta]]
 
 
 Def. **Elasticidad precio de la oferta** : *Una medida de qué tanto responde la cantidad ofrecida de un bien respecto al cambio en el precio del bien. Se calcula como el cambio porcentual en la cantidad ofrecida dividido entre el cambio porcentual en el precio.*
