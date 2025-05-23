@@ -1,4 +1,4 @@
- 
+	 
 ### Programa analítico desarrollado en unidades:
 1. MICRO-ECONOMÍA 
 	1. 1.1. ~~Concepto y método en economía~~. Modelos económicos. Variables e indicadores. La escasez, la elección y los factores productivos. La frontera de posibilidades de producción. Los problemas económicos fundamentales de toda sociedad y el intercambio. 

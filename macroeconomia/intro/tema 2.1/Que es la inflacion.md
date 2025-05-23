@@ -1,0 +1,1 @@
+La inflación es un proceso en el que los precios aumentan. La tasa de inflación se mide como el cambio porcentual en el nivel de precios. Una medida común es el IPC (índice de precios al consumidor). Esta tasa sube y baja, pero rara vez es negativa. Si la tasa de inflación es negativa, el nivel de precios está bajando y ocurre deflación.
