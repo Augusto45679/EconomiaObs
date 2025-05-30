@@ -1,0 +1,4 @@
+El **crecimiento económico** ocurre porque, con el transcurso del tiempo, crece la cantidad de **trabajo**, se acumula **capital** o avanza la **tecnología**. Estos cambios aumentan el **PIB potencial** y desplazan la OAL hacia la derecha. La tasa de crecimiento del **PIB potencial** la determina el ritmo al cual crecen estos factores ($N$, $K$ y $T$). 
+La inflación ocurre cuando la DA se desplaza más rápidamente hacia la derecha que la curva de OAL. Si ambas curvas se desplazaran en la misma proporción podría experimentarse crecimiento del **PBI real** sin inflación. Al **largo plazo**, la influencia principal sobra la DA es la **tasa de crecimiento de la cantidad de dinero**. En los momentos donde la cantidad de dinero aumenta rápidamente, la DA también lo hace y la tasa de inflación es alta. 
+
+![[Pasted image 20250528120736.png]]
