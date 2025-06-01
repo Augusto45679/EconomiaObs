@@ -8,87 +8,87 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0e7ec6f9ae463d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Demanda agregada.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Demanda agregada"
-            }
-          },
-          {
-            "id": "ecde8cb14415ccc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Equilibrio macroeconomico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Equilibrio macroeconomico"
-            }
-          },
-          {
-            "id": "ad07c41c92d27b98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Crecimiento económico e inflación.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Crecimiento económico e inflación"
-            }
-          },
-          {
-            "id": "c6bb7bccd51d736b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Ciclos económicos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ciclos económicos"
-            }
-          },
-          {
-            "id": "e766030fe79d278f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Fluctuaciones.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fluctuaciones"
-            }
-          },
-          {
             "id": "7bda68ca1dbe2269",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "macroeconomia/intro/tema 2.2/a.md",
+                "file": "Otros/Programa de economia 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a"
+              "title": "Programa de economia 2025"
+            }
+          },
+          {
+            "id": "3ced1234f18ec815",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "macroeconomia/tema 2.2/4Efectos Generacionales de la Política Fiscal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4Efectos Generacionales de la Política Fiscal"
+            }
+          },
+          {
+            "id": "aad382945ae8cbb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "macroeconomia/tema 2.2/5Estabilización del ciclo económico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5Estabilización del ciclo económico"
+            }
+          },
+          {
+            "id": "010f93bf5099e433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
+            }
+          },
+          {
+            "id": "8cde45c2b4a2309b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "macroeconomia/tema 2.2/6Limitaciones de la politica fiscal discrecional.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6Limitaciones de la politica fiscal discrecional"
+            }
+          },
+          {
+            "id": "3ad8c223d5f77861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "macroeconomia/tema 2.2/7Estabilizadores automaticos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7Estabilizadores automaticos"
             }
           }
         ],
@@ -115,7 +115,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "48afa6bb895d75e4",
@@ -231,54 +232,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bda68ca1dbe2269",
+  "active": "3ad8c223d5f77861",
   "lastOpenFiles": [
-    "Imagenes/A.png",
-    "README.md",
-    "macroeconomia/intro/tema 2.2/a.md",
-    "Imagenes/Pasted image 20250528115811.png",
-    "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Fluctuaciones.md",
-    "macroeconomia/intro/tema 2.2",
-    "Imagenes/Pasted image 20250528184731.png",
-    "Imagenes/Pasted image 20250528184416.png",
-    "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Ciclos económicos.md",
-    "Imagenes/Pasted image 20250528121348.png",
-    "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Crecimiento económico e inflación.md",
-    "Imagenes/Pasted image 20250528120736.png",
-    "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Equilibrio macroeconomico.md",
-    "Imagenes/Pasted image 20250528120030.png",
-    "Pasted image 20250528115620.png",
-    "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Demanda agregada.md",
-    "Otros/Atajos - Simbolos.md",
-    "Imagenes/Pasted image 20250524091550.png",
+    "Pasted image 20250601202233.png",
+    "Pasted image 20250601202226.png",
+    "Pasted image 20250601202224.png",
+    "macroeconomia/tema 2.2/6Limitaciones de la politica fiscal discrecional.md",
+    "macroeconomia/tema 2.2/7Estabilizadores automaticos.md",
+    "Imagenes/Pasted image 20250601200037.png",
+    "Sin título.md",
+    "macroeconomia/tema 2.2/5Estabilización del ciclo económico.md",
+    "macroeconomia/tema 2.2/4Efectos Generacionales de la Política Fiscal.md",
+    "Otros/Programa de economia 2025.md",
+    "macroeconomia/tema 2.2/3Oferta_InversionAhorroYcrecimiento.md",
+    "Imagenes/Pasted image 20250601190452.png",
+    "Imagenes/Pasted image 20250601184557.png",
+    "macroeconomia/intro/tema 2.1/Financiamiento de la inversión.md",
+    "Imagenes/Pasted image 20250530125059.png",
+    "macroeconomia/tema 2.2/2Empleo y PIB Potencial.md",
+    "Imagenes/Pasted image 20250601182037.png",
+    "Imagenes/Pasted image 20250601174930.png",
+    "Imagenes/Pasted image 20250601174920.png",
+    "macroeconomia/tema 2.2/1Presupuesto de un gobiernos y otros aspectos.md",
+    "macroeconomia/intro/tema 2.1/Que es la inflacion.md",
+    "macroeconomia/intro/tema 2.1/Superavit y deficit GOB e Internacional.md",
     "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Oferta agregada.md",
-    "macroeconomia/intro/tema 2.1/Desafíos e instrumentos de la macroeconomía.md",
-    "Imagenes/Pasted image 20250528113533.png",
-    "Imagenes/Pasted image 20250528104809.png",
-    "macroeconomia/intro/tema 2.1/5PIB y flujo circular de ingresos.md",
-    "macroeconomia/intro/tema 2.1/3Empleo y desempleo.md",
-    "macroeconomia/intro/tema 2.1/4PIB_productoInternoBruto.md",
-    "macroeconomia/intro/tema 2.1/1IntroMacro.md",
-    "macroeconomia/intro/tema 2.1/2Perdida acumulada de Lucas y Brecha de OKUN.md",
-    "práctica/contabilidad/Ratios.md",
-    "práctica/matematica-financiera/2025-03-26.md",
-    "práctica/matematica-financiera/Interés compuesto.md",
-    "práctica/matematica-financiera/Interes simple.md",
-    "Clases/Clase 2025-03-22.md",
-    "macroeconomia/clasesMacro/ClaseMacro2025-05-24.md",
+    "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Medición del producto PIB.md",
     "macroeconomia/intro/tema 2.1/Producto interno bruto y neto.md",
     "macroeconomia/intro/tema 2.1/PBI real y nivel de precios.md",
-    "macroeconomia/intro/tema 2.1/Superavit y deficit GOB e Internacional.md",
-    "macroeconomia/intro/tema 2.1/Financiamiento de la inversión.md",
+    "macroeconomia/intro/tema 2.1/Desafíos e instrumentos de la macroeconomía.md",
+    "macroeconomia/intro/tema 2.1/5PIB y flujo circular de ingresos.md",
+    "macroeconomia/intro/tema 2.1/4PIB_productoInternoBruto.md",
+    "macroeconomia/intro/tema 2.1/3Empleo y desempleo.md",
+    "macroeconomia/intro/tema 2.1/2Perdida acumulada de Lucas y Brecha de OKUN.md",
+    "macroeconomia/intro/tema 2.1/1IntroMacro.md",
+    "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Fluctuaciones.md",
+    "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Demanda agregada.md",
+    "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Equilibrio macroeconomico.md",
+    "Imagenes/A.png",
+    "macroeconomia/tema 2.2",
     "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada",
     "macroeconomia/intro/tema 2.1",
     "macroeconomia/intro",
