@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "macroeconomia/tema 2.2/7Estabilizadores automaticos.md",
+                "file": "microeconomía/Interés compuesto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7Estabilizadores automaticos"
+              "title": "Interés compuesto"
+            }
+          },
+          {
+            "id": "e771fbbf2576f56a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "macroeconomia/tema 2.3/Que es el dinero.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Que es el dinero"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -135,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 245.51103591918945
   },
   "right": {
     "id": "48afa6bb895d75e4",
@@ -226,29 +240,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cde45c2b4a2309b",
+  "active": "e771fbbf2576f56a",
   "lastOpenFiles": [
+    "Otros/Programa de economia 2025.md",
+    "macroeconomia/tema 2.3/Que es el dinero.md",
+    "microeconomía/Interés compuesto.md",
+    "macroeconomia/tema 2.2/6Limitaciones de la politica fiscal discrecional.md",
+    "macroeconomia/tema 2.3",
+    "macroeconomia/tema 2.2/7Estabilizadores automaticos.md",
+    "Pasted image 20250531090728.png",
+    "macroeconomia/tema 2.2/3Oferta_InversionAhorroYcrecimiento.md",
+    "macroeconomia/tema 2.2/5Estabilización del ciclo económico.md",
     "macroeconomia/clasesMacro/ClaseMacro 2025-05-31.md",
     "macroeconomia/clasesMacro/ClaseMacro 2025-05-24.md",
-    "Pasted image 20250531090728.png",
     "macroeconomia/clasesMacro/ClaseMacro2025-05-24.md",
-    "macroeconomia/tema 2.2/5Estabilización del ciclo económico.md",
     "macroeconomia/tema 2.2/2Empleo y PIB Potencial.md",
     "macroeconomia/tema 2.2/1Presupuesto de un gobiernos y otros aspectos.md",
-    "macroeconomia/tema 2.2/7Estabilizadores automaticos.md",
-    "macroeconomia/tema 2.2/6Limitaciones de la politica fiscal discrecional.md",
     "Imagenes/Pasted image 20250601202233.png",
     "Imagenes/Pasted image 20250601202224.png",
     "Imagenes/Pasted image 20250601202226.png",
     "práctica/matematica-financiera/2025-03-26.md",
-    "Sin título.md",
-    "práctica/matematica-financiera/Interés compuesto.md",
     "práctica/contabilidad/Ratios.md",
     "práctica/matematica-financiera/Interes simple.md",
     "Imagenes/Pasted image 20250601200037.png",
     "macroeconomia/tema 2.2/4Efectos Generacionales de la Política Fiscal.md",
-    "Otros/Programa de economia 2025.md",
-    "macroeconomia/tema 2.2/3Oferta_InversionAhorroYcrecimiento.md",
     "Imagenes/Pasted image 20250601190452.png",
     "Imagenes/Pasted image 20250601184557.png",
     "macroeconomia/intro/tema 2.1/Financiamiento de la inversión.md",
