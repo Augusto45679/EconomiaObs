@@ -1,112 +1,37 @@
 {
   "main": {
-    "id": "88e9c131498b5185",
+    "id": "362cc78760e4060e",
     "type": "split",
     "children": [
       {
-        "id": "a20fd2f8e1f2f2fe",
+        "id": "3db46aae8907099d",
         "type": "tabs",
         "children": [
           {
-            "id": "7bda68ca1dbe2269",
+            "id": "909f9bce0eaf708b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Otros/Programa de economia 2025.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Programa de economia 2025"
-            }
-          },
-          {
-            "id": "3ced1234f18ec815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "macroeconomia/tema 2.2/4Efectos Generacionales de la Política Fiscal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4Efectos Generacionales de la Política Fiscal"
-            }
-          },
-          {
-            "id": "aad382945ae8cbb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "macroeconomia/tema 2.2/5Estabilización del ciclo económico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5Estabilización del ciclo económico"
-            }
-          },
-          {
-            "id": "010f93bf5099e433",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sin título"
-            }
-          },
-          {
-            "id": "8cde45c2b4a2309b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "macroeconomia/tema 2.2/6Limitaciones de la politica fiscal discrecional.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6Limitaciones de la politica fiscal discrecional"
-            }
-          },
-          {
-            "id": "3ad8c223d5f77861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "macroeconomia/tema 2.2/7Estabilizadores automaticos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7Estabilizadores automaticos"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9982377de70e839b",
+    "id": "a60cd5aed2b8dbda",
     "type": "split",
     "children": [
       {
-        "id": "b7fb73961ed7d5e6",
+        "id": "cf1241f65c886c7d",
         "type": "tabs",
         "children": [
           {
-            "id": "c533066940de945a",
+            "id": "885e56a65d55df9f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -115,11 +40,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
-            "id": "2a1a645d76914133",
+            "id": "4ab66f4e10156caa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -136,7 +61,7 @@
             }
           },
           {
-            "id": "f0325250074e75f1",
+            "id": "231842deb9631bd0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -149,24 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "48afa6bb895d75e4",
+    "id": "f6481ac6c2571dc9",
     "type": "split",
     "children": [
       {
-        "id": "1ddea9b09336f905",
+        "id": "b6d14b2e0a80767e",
         "type": "tabs",
         "children": [
           {
-            "id": "0f6ce61aafb802b6",
+            "id": "717a4d6d6998a938",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad Ingreso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Elasticidad Ingreso"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "63f14e1889429a82",
+            "id": "f38f4567d2a06964",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad Ingreso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Elasticidad Ingreso"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "bfd5c7432947b0a4",
+            "id": "8368f3c1f7a11870",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -209,18 +131,17 @@
             }
           },
           {
-            "id": "e08599fb626bbd6e",
+            "id": "f45b7c8f0847cdca",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "microeconomía/1.2 Mercados y Equilibrio/Elasticidad/Elasticidad Ingreso.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Elasticidad Ingreso"
+              "title": "Outline"
             }
           }
         ]
@@ -232,57 +153,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ad8c223d5f77861",
-  "lastOpenFiles": [
-    "Pasted image 20250601202233.png",
-    "Pasted image 20250601202226.png",
-    "Pasted image 20250601202224.png",
-    "macroeconomia/tema 2.2/6Limitaciones de la politica fiscal discrecional.md",
-    "macroeconomia/tema 2.2/7Estabilizadores automaticos.md",
-    "Imagenes/Pasted image 20250601200037.png",
-    "Sin título.md",
-    "macroeconomia/tema 2.2/5Estabilización del ciclo económico.md",
-    "macroeconomia/tema 2.2/4Efectos Generacionales de la Política Fiscal.md",
-    "Otros/Programa de economia 2025.md",
-    "macroeconomia/tema 2.2/3Oferta_InversionAhorroYcrecimiento.md",
-    "Imagenes/Pasted image 20250601190452.png",
-    "Imagenes/Pasted image 20250601184557.png",
-    "macroeconomia/intro/tema 2.1/Financiamiento de la inversión.md",
-    "Imagenes/Pasted image 20250530125059.png",
-    "macroeconomia/tema 2.2/2Empleo y PIB Potencial.md",
-    "Imagenes/Pasted image 20250601182037.png",
-    "Imagenes/Pasted image 20250601174930.png",
-    "Imagenes/Pasted image 20250601174920.png",
-    "macroeconomia/tema 2.2/1Presupuesto de un gobiernos y otros aspectos.md",
-    "macroeconomia/intro/tema 2.1/Que es la inflacion.md",
-    "macroeconomia/intro/tema 2.1/Superavit y deficit GOB e Internacional.md",
-    "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Oferta agregada.md",
-    "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Medición del producto PIB.md",
-    "macroeconomia/intro/tema 2.1/Producto interno bruto y neto.md",
-    "macroeconomia/intro/tema 2.1/PBI real y nivel de precios.md",
-    "macroeconomia/intro/tema 2.1/Desafíos e instrumentos de la macroeconomía.md",
-    "macroeconomia/intro/tema 2.1/5PIB y flujo circular de ingresos.md",
-    "macroeconomia/intro/tema 2.1/4PIB_productoInternoBruto.md",
-    "macroeconomia/intro/tema 2.1/3Empleo y desempleo.md",
-    "macroeconomia/intro/tema 2.1/2Perdida acumulada de Lucas y Brecha de OKUN.md",
-    "macroeconomia/intro/tema 2.1/1IntroMacro.md",
-    "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Fluctuaciones.md",
-    "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Demanda agregada.md",
-    "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada/Equilibrio macroeconomico.md",
-    "Imagenes/A.png",
-    "macroeconomia/tema 2.2",
-    "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada",
-    "macroeconomia/intro/tema 2.1",
-    "macroeconomia/intro",
-    "práctica/contabilidad"
-  ]
+  "active": "909f9bce0eaf708b",
+  "lastOpenFiles": []
 }
