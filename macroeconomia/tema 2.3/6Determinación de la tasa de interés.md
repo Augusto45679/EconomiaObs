@@ -14,6 +14,8 @@ Si la tasa de interés es muy alta, las personas demandan una cantidad de dinero
  
  Comprar Bono -> Aumento tasa de interés
 Vender Bono -> Disminución de la tasa de interés
+![[Pasted image 20250606115539.png]]
+
 ## Cambios en la tasa de interés
 
 Supongamos que la economía no está bien y el BCRA teme a la inflación. Este quiere disminuir la demanda agregada y el gasto, y para esto aumenta la tasa de interés y desalienta el endeudamiento y el gasto. Lo que hace el BCRA es vender valores en el mercado abierto. Al hacerlo, absorbe reservas bancarias e induce a los bancos a reducir sus préstamos. Los bancos otorgan una cantidad más pequeña de préstamos nuevos cada día, hasta que el acervo de préstamos vigentes cae a un nivel que concuerda con el nuevo nivel inferior de reservas. La cantidad de dinero disminuye.
