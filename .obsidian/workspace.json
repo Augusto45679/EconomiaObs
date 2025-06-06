@@ -25,16 +25,32 @@
             "id": "b85078714432b306",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Imagenes/Pasted image 20250606014536.png"
+                "file": "macroeconomia/tema 2.3/6Determinación de la tasa de interés.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250606014536"
+              "icon": "lucide-file",
+              "title": "6Determinación de la tasa de interés"
+            }
+          },
+          {
+            "id": "934445de12dd3283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "macroeconomia/tema 2.3/7Efectos de largo plazo del dinero en el PBI real y nivel de precios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7Efectos de largo plazo del dinero en el PBI real y nivel de precios"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.51103591918945
+    "width": 246.5110321044922
   },
   "right": {
     "id": "48afa6bb895d75e4",
@@ -182,28 +198,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c533066940de945a",
+  "active": "934445de12dd3283",
   "lastOpenFiles": [
+    "Imagenes/Pasted image 20250606105227.png",
+    "Imagenes/Pasted image 20250606110349.png",
+    "macroeconomia/tema 2.3/7Efectos de largo plazo del dinero en el PBI real y nivel de precios.md",
+    "Imagenes/Pasted image 20250606111459.png",
     "macroeconomia/tema 2.3/6Determinación de la tasa de interés.md",
-    "Imagenes/Pasted image 20250606021112.png",
-    "Imagenes/Pasted image 20250606020534.png",
+    "Imagenes/Pasted image 20250606105528.png",
+    "macroeconomia/tema 2.3/3Banco Central.md",
     "macroeconomia/tema 2.3/4Control de la oferta monetaria.md",
     "macroeconomia/tema 2.3/5DemandaDeDinero.md",
-    "Imagenes/Pasted image 20250606015908.png",
     "Imagenes/Pasted image 20250606014536.png",
+    "Imagenes/Pasted image 20250606021112.png",
+    "Imagenes/Pasted image 20250606020534.png",
+    "Imagenes/Pasted image 20250606015908.png",
     "Imagenes/Pasted image 20250606012910.png",
     "Imagenes/Pasted image 20250606014221.png",
-    "Imagenes/Pasted image 20250606013458.png",
     "Otros/Programa de economia 2025.md",
     "Untitled.md",
-    "macroeconomia/tema 2.3/3Banco Central.md",
     "macroeconomia/tema 2.3/2Como crean dinero los bancos.md",
     "macroeconomia/tema 2.3/1Que es el dinero.md",
     "macroeconomia/tema 2.2/5Estabilización del ciclo económico.md",
     "macroeconomia/tema 2.2/4Efectos Generacionales de la Política Fiscal.md",
-    "Imagenes/Pasted image 20250531090728.png",
-    "Imagenes/Pasted image 20250606002314.png",
-    "Imagenes/Pasted image 20250605233725.png",
     "microeconomía/Interés compuesto.md",
     "macroeconomia/tema 2.2/6Limitaciones de la politica fiscal discrecional.md",
     "macroeconomia/tema 2.3",
@@ -219,7 +236,6 @@
     "práctica/matematica-financiera/Interes simple.md",
     "macroeconomia/intro/tema 2.1/Financiamiento de la inversión.md",
     "macroeconomia/intro/tema 2.1/Que es la inflacion.md",
-    "macroeconomia/intro/tema 2.1/Superavit y deficit GOB e Internacional.md",
     "macroeconomia/tema 2.2",
     "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada",
     "macroeconomia/intro/tema 2.1",
