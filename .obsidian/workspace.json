@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "macroeconomia/tema 2.3/6Determinación de la tasa de interés.md",
+                "file": "macroeconomia/clasesMacro/2025-06-07 Teoria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6Determinación de la tasa de interés"
+              "title": "2025-06-07 Teoria"
             }
           }
         ],
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5110321044922
+    "width": 246.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "48afa6bb895d75e4",
@@ -214,14 +215,16 @@
   },
   "active": "9f88aeb68af4cd93",
   "lastOpenFiles": [
+    "macroeconomia/tema 2.4/Intro.md",
+    "macroeconomia/clasesMacro/2025-06-07 Teoria.md",
+    "macroeconomia/tema 2.3/7Efectos de largo plazo del dinero en el PBI real y nivel de precios.md",
+    "macroeconomia/tema 2.3/6Determinación de la tasa de interés.md",
+    "Otros/Programa de economia 2025.md",
     "macroeconomia/tema 2.3/5DemandaDeDinero.md",
     "macroeconomia/tema 2.3/4Control de la oferta monetaria.md",
     "macroeconomia/tema 2.3/2Como crean dinero los bancos.md",
     "macroeconomia/tema 2.3/1Que es el dinero.md",
     "Imagenes/Pasted image 20250606115539.png",
-    "macroeconomia/tema 2.3/6Determinación de la tasa de interés.md",
-    "macroeconomia/tema 2.4/aa.md",
-    "macroeconomia/tema 2.3/7Efectos de largo plazo del dinero en el PBI real y nivel de precios.md",
     "macroeconomia/tema 2.4",
     "Imagenes/Pasted image 20250606105227.png",
     "Imagenes/Pasted image 20250606110349.png",
@@ -233,7 +236,6 @@
     "Imagenes/Pasted image 20250606020534.png",
     "Imagenes/Pasted image 20250606015908.png",
     "Imagenes/Pasted image 20250606012910.png",
-    "Otros/Programa de economia 2025.md",
     "macroeconomia/tema 2.2/5Estabilización del ciclo económico.md",
     "macroeconomia/tema 2.2/4Efectos Generacionales de la Política Fiscal.md",
     "microeconomía/Interés compuesto.md",
