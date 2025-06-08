@@ -22,49 +22,19 @@
             }
           },
           {
-            "id": "b85078714432b306",
+            "id": "bdf5b19fe4043c0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "macroeconomia/tema 2.3/6Determinación de la tasa de interés.md",
-                "mode": "source",
-                "source": false
+                "file": "Imagenes/Pasted image 20250608163101.png"
               },
-              "icon": "lucide-file",
-              "title": "6Determinación de la tasa de interés"
-            }
-          },
-          {
-            "id": "934445de12dd3283",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "macroeconomia/tema 2.3/7Efectos de largo plazo del dinero en el PBI real y nivel de precios.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7Efectos de largo plazo del dinero en el PBI real y nivel de precios"
-            }
-          },
-          {
-            "id": "9f88aeb68af4cd93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "macroeconomia/clasesMacro/2025-06-07 Teoria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-07 Teoria"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250608163101"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +57,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -121,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5110321044922,
-    "collapsed": true
+    "width": 246.5110321044922
   },
   "right": {
     "id": "48afa6bb895d75e4",
@@ -204,38 +173,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f88aeb68af4cd93",
+  "active": "c533066940de945a",
   "lastOpenFiles": [
-    "macroeconomia/tema 2.4/Intro.md",
-    "macroeconomia/clasesMacro/2025-06-07 Teoria.md",
+    "macroeconomia/tema 2.4/5El tipo de cambio.md",
+    "Sin título.md",
+    "Imagenes/Pasted image 20250608163101.png",
+    "Imagenes/Pasted image 20250608162900.png",
+    "Imagenes/Pasted image 20250608162459.png",
+    "Otros/Programa de economia 2025.md",
+    "Imagenes/Pasted image 20250608162041.png",
+    "Imagenes/Pasted image 20250608161409.png",
+    "Imagenes/Pasted image 20250608160650.png",
+    "Imagenes/Pasted image 20250608155942.png",
+    "macroeconomia/tema 2.4/4Fianciamiento del comercio internacional.md",
+    "macroeconomia/tema 2.4/3Caso contra la protección.md",
+    "Imagenes/Pasted image 20250608122847.png",
+    "macroeconomia/tema 2.4/2Restricciones al comercio internacional.md",
+    "macroeconomia/tema 2.4/1Intro.md",
     "macroeconomia/tema 2.3/7Efectos de largo plazo del dinero en el PBI real y nivel de precios.md",
     "macroeconomia/tema 2.3/6Determinación de la tasa de interés.md",
-    "Otros/Programa de economia 2025.md",
+    "Imagenes/Pasted image 20250608143246.png",
+    "macroeconomia/tema 2.3/3Banco Central.md",
+    "macroeconomia/clasesMacro/2025-06-07 Teoria.md",
     "macroeconomia/tema 2.3/5DemandaDeDinero.md",
     "macroeconomia/tema 2.3/4Control de la oferta monetaria.md",
     "macroeconomia/tema 2.3/2Como crean dinero los bancos.md",
     "macroeconomia/tema 2.3/1Que es el dinero.md",
     "Imagenes/Pasted image 20250606115539.png",
     "macroeconomia/tema 2.4",
-    "Imagenes/Pasted image 20250606105227.png",
-    "Imagenes/Pasted image 20250606110349.png",
-    "Imagenes/Pasted image 20250606111459.png",
-    "Imagenes/Pasted image 20250606105528.png",
-    "macroeconomia/tema 2.3/3Banco Central.md",
-    "Imagenes/Pasted image 20250606014536.png",
-    "Imagenes/Pasted image 20250606021112.png",
-    "Imagenes/Pasted image 20250606020534.png",
-    "Imagenes/Pasted image 20250606015908.png",
-    "Imagenes/Pasted image 20250606012910.png",
     "macroeconomia/tema 2.2/5Estabilización del ciclo económico.md",
     "macroeconomia/tema 2.2/4Efectos Generacionales de la Política Fiscal.md",
     "microeconomía/Interés compuesto.md",
@@ -247,12 +221,6 @@
     "macroeconomia/clasesMacro/ClaseMacro 2025-05-24.md",
     "macroeconomia/clasesMacro/ClaseMacro2025-05-24.md",
     "macroeconomia/tema 2.2/2Empleo y PIB Potencial.md",
-    "macroeconomia/tema 2.2/1Presupuesto de un gobiernos y otros aspectos.md",
-    "macroeconomia/práctica/matematica-financiera/2025-03-26.md",
-    "macroeconomia/práctica/contabilidad/Ratios.md",
-    "macroeconomia/práctica/matematica-financiera/Interes simple.md",
-    "macroeconomia/intro/tema 2.1/Financiamiento de la inversión.md",
-    "macroeconomia/intro/tema 2.1/Que es la inflacion.md",
     "macroeconomia/tema 2.2",
     "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada",
     "macroeconomia/intro/tema 2.1",
