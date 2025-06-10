@@ -4,9 +4,6 @@
 
 ### Curva de Philips a corto plazo
 
-
-
-
 ![[Pasted image 20250610002006.png]]
 
 ![[Pasted image 20250610002249.png]]

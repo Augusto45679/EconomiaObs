@@ -8,89 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bda68ca1dbe2269",
+            "id": "869304961386087f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Otros/Programa de economia 2025.md",
+                "file": "macroeconomia/clasesMacro/2025-06-07 Teoria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programa de economia 2025"
+              "title": "2025-06-07 Teoria"
             }
           },
           {
-            "id": "bdf5b19fe4043c0d",
+            "id": "1f856b59fc353d3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "macroeconomia/tema 2.4/5El tipo de cambio.md",
+                "file": "macroeconomia/tema 2.5/Shocks de oferta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5El tipo de cambio"
-            }
-          },
-          {
-            "id": "6d86bd89d6704d18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "macroeconomia/tema 2.5/1Intro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1Intro"
-            }
-          },
-          {
-            "id": "9848f33cc32a290b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "macroeconomia/tema 2.5/3Efectos de la inflación.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3Efectos de la inflación"
-            }
-          },
-          {
-            "id": "66956c61a0830dee",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Imagenes/Pasted image 20250610002006.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250610002006"
-            }
-          },
-          {
-            "id": "27f58f0f66acac66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "macroeconomia/tema 2.5/5Tasa de interés e inflacion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5Tasa de interés e inflacion"
+              "title": "Shocks de oferta"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5110321044922,
-    "collapsed": true
+    "width": 237.5110321044922
   },
   "right": {
     "id": "48afa6bb895d75e4",
@@ -239,46 +184,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d86bd89d6704d18",
+  "active": "1f856b59fc353d3e",
   "lastOpenFiles": [
-    "macroeconomia/tema 2.5/5Tasa de interés e inflacion.md",
-    "macroeconomia/tema 2.5/4Desempleo y curva de Philips.md",
-    "Imagenes/Pasted image 20250610004001.png",
-    "README.md",
-    "Imagenes/Pasted image 20250610002006.png",
-    "Imagenes/Pasted image 20250610003930.png",
-    "Imagenes/Pasted image 20250610002249.png",
-    "macroeconomia/tema 2.5/3Efectos de la inflación.md",
-    "macroeconomia/tema 2.5/2Inflacion de costos.md",
-    "Imagenes/Pasted image 20250609123722.png",
-    "Imagenes/Pasted image 20250609110049.png",
-    "Imagenes/Pasted image 20250609121916.png",
-    "Imagenes/Pasted image 20250609110112.png",
-    "Imagenes/Pasted image 20250609101442.png",
-    "macroeconomia/tema 2.5/1Intro.md",
-    "Imagenes/Pasted image 20250609105430.png",
-    "macroeconomia/tema 2.5",
-    "macroeconomia/tema 2.4/5El tipo de cambio.md",
-    "macroeconomia/tema 2.2/1Presupuesto de un gobiernos y otros aspectos.md",
-    "microeconomía/1.3 Produccion y costos/Costos de produccion/Costos a corto plazo.md",
     "Otros/Programa de economia 2025.md",
+    "macroeconomia/clasesMacro/2025-06-07 Teoria.md",
+    "macroeconomia/tema 2.5/Shocks de oferta.md",
+    "macroeconomia/tema 2.5/ObjetivosMacroEconomicosPoliticasEstabilizacion.md",
+    "macroeconomia/tema 2.5/4Desempleo y curva de Philips.md",
+    "macroeconomia/tema 2.5/5Tasa de interés e inflacion.md",
     "macroeconomia/tema 2.4/4Fianciamiento del comercio internacional.md",
     "macroeconomia/tema 2.4/3Caso contra la protección.md",
-    "macroeconomia/tema 2.4/2Restricciones al comercio internacional.md",
+    "macroeconomia/tema 2.5/3Efectos de la inflación.md",
+    "macroeconomia/tema 2.3/5DemandaDeDinero.md",
+    "macroeconomia/tema 2.3/4Control de la oferta monetaria.md",
+    "macroeconomia/tema 2.3/3Banco Central.md",
+    "macroeconomia/tema 2.3/2Como crean dinero los bancos.md",
+    "macroeconomia/tema 2.3/1Que es el dinero.md",
+    "macroeconomia/tema 2.4/5El tipo de cambio.md",
     "macroeconomia/tema 2.4/1Intro.md",
     "macroeconomia/tema 2.3/7Efectos de largo plazo del dinero en el PBI real y nivel de precios.md",
     "macroeconomia/tema 2.3/6Determinación de la tasa de interés.md",
-    "macroeconomia/tema 2.3/3Banco Central.md",
-    "macroeconomia/clasesMacro/2025-06-07 Teoria.md",
-    "macroeconomia/tema 2.3/5DemandaDeDinero.md",
-    "macroeconomia/tema 2.3/4Control de la oferta monetaria.md",
-    "macroeconomia/tema 2.3/2Como crean dinero los bancos.md",
-    "macroeconomia/tema 2.3/1Que es el dinero.md",
-    "macroeconomia/tema 2.4",
+    "macroeconomia/tema 2.4/2Restricciones al comercio internacional.md",
+    "macroeconomia/tema 2.5/1Intro.md",
+    "macroeconomia/tema 2.2/7Estabilizadores automaticos.md",
     "macroeconomia/tema 2.2/5Estabilización del ciclo económico.md",
     "macroeconomia/tema 2.2/4Efectos Generacionales de la Política Fiscal.md",
-    "microeconomía/Interés compuesto.md",
-    "macroeconomia/tema 2.2/6Limitaciones de la politica fiscal discrecional.md",
+    "macroeconomia/tema 2.2/3Oferta_InversionAhorroYcrecimiento.md",
+    "macroeconomia/tema 2.2/2Empleo y PIB Potencial.md",
+    "macroeconomia/tema 2.2/1Presupuesto de un gobiernos y otros aspectos.md",
+    "macroeconomia/tema 2.5/archivo.pdf",
+    "Imagenes/Pasted image 20250610010136.png",
+    "Imagenes/Pasted image 20250610010905.png",
+    "Imagenes/Pasted image 20250610010526.png",
+    "Imagenes/Pasted image 20250610010501.png",
+    "Imagenes/Pasted image 20250610010436.png",
+    "Imagenes/Pasted image 20250610010247.png",
+    "Imagenes/Pasted image 20250610002006.png",
+    "Imagenes/Pasted image 20250610004001.png",
+    "Imagenes/Pasted image 20250610003930.png",
+    "Imagenes/Pasted image 20250610002249.png",
+    "macroeconomia/tema 2.5",
+    "macroeconomia/tema 2.4",
     "macroeconomia/tema 2.3",
     "macroeconomia/tema 2.2",
     "macroeconomia/intro/tema 2.1/OfertaDemandaAgregada",

@@ -1,4 +1,4 @@
-Para realizar comercio internacional, ya sea la compra de bienes, servicios o activos en otro país, es necesario utilizar la moneda de ese país o una divisa de aceptación general como el dólar estadounidense (yen o euro). Todas estas transacciones de comercio, endeudamiento y préstamos internacionales de un país se registran en las **cuentas de la balanza de pagos**.
+ Para realizar comercio internacional, ya sea la compra de bienes, servicios o activos en otro país, es necesario utilizar la moneda de ese país o una divisa de aceptación general como el dólar estadounidense (yen o euro). Todas estas transacciones de comercio, endeudamiento y préstamos internacionales de un país se registran en las **cuentas de la balanza de pagos**.
 #### Cuentas la balanza de pagos
 
 Las cuentas de la **balanza de pagos** de un país registran el comercio, el endeudamiento y los préstamos internacionales.  Tiene 4 componentes:
@@ -30,7 +30,7 @@ Una **nación acreedora** ha invertido más en el resto del mundo de lo que otro
 + Las deudas son acervos: montos que se deben en un momento dado.
 * El flujo de endeudamiento y préstamos cambia el acervo de la deuda.
 
-El **saldo de la cuenta corriente** es determinado principalmente por las exportaciones netas ($XN$). Estas, a su vez, dependen del balance del sector público y del sector privado, según la siguiente ecuación fundamental de las cuentas nacionales: $$XN=X-M=(S-I)+(T+G)$$
+El **saldo de la cuenta corriente** es determinado principalmente por las exportaciones netas ($XN$). Estas, a su vez, dependen del balance del sector público y del sector privado, según la siguiente ecuación fundamental de las cuentas nacionales: $$**XN=X-M=(S-I)+(T+G)**$$
 Esto significa que las exportaciones netas (X−M) son iguales a la suma del superávit o déficit del sector privado (Ahorro S menos Inversión I) y el superávit o déficit del gobierno (Impuestos T menos Compras gubernamentales G). 
 
 Si un país pide prestado al exterior (exportaciones netas negativas), la conveniencia de esto depende de si el dinero se usa para financiar inversión —lo cual genera crecimiento e ingresos futuros— o para financiar consumo, lo que implicaría reducir el consumo más adelante para pagar la deuda.

@@ -1,6 +1,6 @@
 
 
-## Fuentes de financiamiento para la inversion
+## Fuentes de financiamiento para la inversión
 
 [[Financiamiento de la inversión]] 
 

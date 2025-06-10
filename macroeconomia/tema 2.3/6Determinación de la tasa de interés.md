@@ -30,7 +30,7 @@ Cuando la tasa de interés aumenta a 6% anual, las personas están dispuestas a 
 
 **Inflación -> Aumento tasa de interés -> Vende bonos para disminuir los préstamos -> Menor cantidad de reservas -> OD se traslada hacia la izquierda**
 
-Una venta de valores en el mercado abierto desplaza la curva de oferta de dinero a la izquierda, a OD1, y la tasa de interés aumenta a 6% anual. Una compra de valores en el mercado abierto desplaza la curva de oferta de dinero a la derecha, a OD2, y la tasa de interés cae a 4%. 
+Una venta de valores en el mercado abierto desplaza la curva de oferta de dinero a la izquierda, a $OD_{1}$, y la tasa de interés aumenta a 6% anual. Una compra de valores en el mercado abierto desplaza la curva de oferta de dinero a la derecha, a $OD_{2}$, y la tasa de interés cae a 4%. 
 
 ## Efectos ondulatorios de la tasa de interés
 

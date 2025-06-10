@@ -1,12 +1,12 @@
-El BCR (banco central) vigila y ajusta ctemente la cantida dinero en la economia. Para cambiar la cantidad de dinero puedo usar cualquierda de sus tres instrumentos: 
+El BCR (banco central) vigila y ajusta constantemente la cantidad dinero en la economía. Para cambiar la cantidad de dinero puedo usar cualquiera de sus tres instrumentos: 
 
-1. Coef de reservas obligatorias
-2. tasa de descuento
-3. operaciones de mercado abierto
+1. **Coeficiente de reservas obligatorias**
+2. **Tasa de descuento**
+3. **Operaciones de mercado abierto**
 
 #### Cómo funcionan los coeficientes de reservas obligatorias
 
-Cuando el Banco central  **+ aumenta el coef de reservas oblicatorias** los bancos deben mantener más reservas. 
+Cuando el Banco central  **+ aumenta el coef de reservas obligatorias** los bancos deben mantener más reservas. 
 ->
 Para + aumentar reservas -> Bancos - disminuyen los prestamos, por lo tanto - cantidad de dinero
 
@@ -20,7 +20,7 @@ El banco central **+ aumenta la tasa de descuento**, los bancos deben pagar un p
 
 Enfrentados a un costo más alto de las reservas, los bancos tratan de arreglárselas con reservas más pequeñas. Pero con un **coeficiente de reservas obligatorias** dado, los bancos también deben **- disminuir sus préstamos** para disminuir las reservas que piden en préstamo. ***Así que la cantidad de dinero disminuye***. 
 
-Cuando el banco central disminuye la tasa de descuento, lso bancos pagan un precio menor por las reservas que piden prestadas al banco central. 
+Cuando el banco central disminuye la tasa de descuento, los bancos pagan un precio menor por las reservas que piden prestadas al banco central. 
 
 A un costo más bajo de reservas, los bancos están dispuestos a pedir prestadas más reservas y **+ aumentar sus prestamos**. De tal manera que la ***cantidad de dinero aumenta***.
 
@@ -57,7 +57,8 @@ Filtración de Efectivo (e): 0,50
 Reservas Excedentes de los Bancos (B): $100000
 ![[Pasted image 20250606013458.png]]
 ### Tamaño del multiplicador monetario 
-depende de las magnitudes del Coeficiente de Reservas Obligatorias y de la Proporción que representa el Efectivo de los Depósitos.
+
+Depende de las magnitudes del Coeficiente de Reservas Obligatorias y de la Proporción que representa el Efectivo de los Depósitos.
 
 $R =r*D \text{ [reservas obligatorias]}$
 $r \text{ [Coeficiente de Reservas Obligatorias]}$

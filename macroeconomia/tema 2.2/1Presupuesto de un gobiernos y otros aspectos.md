@@ -27,10 +27,10 @@ Son los ingresos del gobierno y recaudan a través de:
 
 ---
 
-> Deficit: es el monto por el cual los gastos gubernamentales exceden la recaudación tributaria
+> Déficit: es el monto por el cual los gastos gubernamentales exceden la recaudación tributaria
 > $$\text{saldo del presupuesto = recaudacion tributaria - gastos}$$
 
-* Superavit presupuestario: si la recaudación tributaria es mayor que los gastos
+* Superávit presupuestario: si la recaudación tributaria es mayor que los gastos
 * Deficit presupuestario:  si los gastos son mayores que la recaudación tributaria
 * Presupuesto equilibrado: si la recaudación tributaria es igual a los gastos
 
