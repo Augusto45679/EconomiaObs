@@ -5,7 +5,7 @@
 [[Financiamiento de la inversión]] 
 
 Teníamos que el PIB era $$\text{PIB}=C + I + G + (X - M )$$
-El PIB también es igual a la suma del gasto de consumo, el ahorro, S, y los impuestos netos, T 
+El PIB también es igual a la suma del **gasto de consumo**, el ahorro, S, y los impuestos netos, T 
 $$\text{PIB} = C + S + T$$
 
 Podemos combinar y tenemos
@@ -13,7 +13,7 @@ Podemos combinar y tenemos
 $$I + G + (X - M ) = S + T$$
 Esta ecuación nos dice que la inversión, $I$, es financiada por el ahorro, $S$, el ahorro del gobierno, $T - G$, y el endeudamiento externo, $(M - X )$.
 
-El ahorro y el endeudamiento externo son las fuentes privadas del ahorro, PS, y
+El ahorro y el endeudamiento externo son las **fuentes privadas del ahorro**, PS, y
 
 $$PS = S+(M-X)$$
 La inversión es igual a la suma del ahorro privado y el ahorro del gobierno. Es decir,
@@ -25,8 +25,6 @@ $$I = PS + (T- G )$$
 La política fiscal puede influir en el mercado de capital en dos maneras:
 ■ Los impuestos afectan el incentivo para ahorrar.
 ■ El ahorro del gobierno (el superávit o déficit presupuestario) es un componente del ahorro total.
-
-
 ### Impuestos y el incentivo para ahorrar 
 
 Un impuesto por ingresos de interés debilita el incentivo para ahorrar y abre una brecha entre la tasa de interés después de impuestos ganada por los ahorradores y la tasa de interés pagada por las empresas. Estos efectos son análogos a aquellos de un impuesto por ingresos de trabajo. Pero son más serios por dos razones
@@ -34,9 +32,7 @@ Un impuesto por ingresos de interés debilita el incentivo para ahorrar y abre u
 1. Primera, un impuesto por ingresos de trabajo baja la cantidad de trabajo empleado y baja el PIB potencial, mientras que un impuesto por ingresos de capital baja la cantidad de ahorro e inversión y desacelera la tasa de crecimiento del PIB real. Un impuesto sobre el ingreso del capital crea una cuña o pérdida acumulada de Lucas, una brecha siempre creciente entre el PIB potencial y el PIB potencial que podría haber sido
 2. Segunda, la tasa impositiva verdadera sobre ingresos de interés es mucho más alta que aquella de los ingresos de trabajo debido a la manera en que la inflación y los impuestos por interés interactúan.
 
-
-
-### Tasa de interes real despues de impuestos
+### Tasa de interés real después de impuestos
 Es la tasa de interés que influye en los planes de inversión y ahorro. Recordando que es la Tasa de Interés Real: $\text{Tasa de interes real} \approx \text{Tasa de interes nominal - tasa de inflacion esperada}$
 
 La tasa de interés real después de impuestos resta el impuesto sobre la renta pagado

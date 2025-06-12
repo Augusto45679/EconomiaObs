@@ -9,13 +9,13 @@ Política monetarias: opcionales de pm para estabilizar la DA (demanda agregada)
 	2. Políticas de regla de reacción
 	3. Políticas discrecionales
 
-### Politica de regla fija
+### Política de regla fija
 
 Niveles de precios y empleo fluctúan en la misma dirección que la DA, el tomador de decisiones no se aleja de su política prestablecida. Sin intervención para lograr estabilizar precios. 
 
 ![[Pasted image 20250610010136.png]]
 
-## Politica de reacción 
+## Política de reacción 
 
 Política monetaria trata de ”contener” los efectos de desequilibrios. Si PIB menor PIB real (recesión) por DA en baja: brecha recesiva, desempleo mayor a su tasa natural. Impulso DA. 
 

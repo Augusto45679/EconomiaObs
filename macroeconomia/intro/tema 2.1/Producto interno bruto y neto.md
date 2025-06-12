@@ -1,5 +1,4 @@
-Bruto significa antes de contabilizar la depreciación del capital. El monto total gastado en aumentar el acervo de capital y reemplazar el capital depreciado. Lo opuesto a bruto es neto, que significa después de contabilizar la depreciación del capital. El monto gastado en aumentar el acervo de capital.
-
+Bruto significa antes de **contabilizar la depreciación del capital**. El monto total gastado en aumentar el acervo de capital y reemplazar el capital depreciado. Lo opuesto a bruto es neto, que significa después de contabilizar la depreciación del capital. El monto gastado en aumentar el acervo de capital.
 ### Producto Interno Bruto y Neto: Flujos, Acervos y la Dinámica del Capital
 
 La diferencia fundamental entre el Producto Interno _Bruto_ (PIB) y el Producto Interno _Neto_ (PIN) radica en cómo se trata el desgaste del capital. Para entender esto, es crucial distinguir entre flujos y acervos (stocks).
@@ -25,13 +24,12 @@ La relación clave es que **los flujos modifican los acervos**. Así como el agu
 
 El término "bruto" en el PIB significa que se mide el valor de la producción _antes_ de restar la depreciación del capital.
 
-- **Depreciación:** Es la disminución del valor del stock de capital durante un período debido al uso y la obsolescencia. Es un _flujo_ que _reduce_ el stock de capital.
-- **Inversión Bruta (IB​):** Es el _gasto total_ en nuevo capital y en la reposición del capital desgastado durante un período. Es el componente "I" que se suma en el cálculo del PIB por el método del gasto (PIB=C+IB​+G+XN).
-- **Inversión Neta (IN​):** Es la inversión bruta menos la depreciación (IN​=IB​−Depreciacioˊn). Este flujo representa el _cambio real_ en el stock de capital. Si IN​ es positiva, el stock de capital crece; si es negativa, disminuye.
-- **PIB vs. PIN:** El PIB utiliza la inversión _bruta_. Para obtener el **Producto Interno Neto (PIN)**, se resta la depreciación del PIB: PIN=PIB−Depreciacioˊn El PIN representa la cantidad de producción que se podría consumir (o invertir) manteniendo constante el valor del stock de capital. Es una medida más cercana al crecimiento sostenible, pero la depreciación es difícil de medir con precisión, por lo que el PIB es más utilizado.
+- **Depreciación:** es la disminución del valor del stock de capital durante un período debido al uso y la obsolescencia. Es un _flujo_ que _reduce_ el stock de capital.
+- **Inversión Bruta (IB​):** es el _gasto total_ en nuevo capital y en la reposición del capital desgastado durante un período. Es el componente "I" que se suma en el cálculo del PIB por el método del gasto (PIB=C+IB​+G+XN).
+- **Inversión Neta (IN​):** es la inversión bruta menos la depreciación (IN​=IB​−Depreciación). Este flujo representa el _cambio real_ en el stock de capital. Si IN​ es positiva, el stock de capital crece; si es negativa, disminuye.
+- **PIB vs. PIN:** el PIB utiliza la inversión _bruta_. Para obtener el **Producto Interno Neto (PIN)**, se resta la depreciación del PIB: PIN=PIB−Depreciación El PIN representa la cantidad de producción que se podría consumir (o invertir) manteniendo constante el valor del stock de capital. Es una medida más cercana al crecimiento sostenible, pero la depreciación es difícil de medir con precisión, por lo que el PIB es más utilizado.
 
 **5. El Corto Plazo se Encuentra con el Largo Plazo:**
-
 Esta distinción es crucial para conectar la dinámica económica a corto y largo plazo:
 
 - **Corto Plazo:** La **inversión bruta** es un componente clave del _gasto agregado_ (Demanda Agregada). Las decisiones de inversión de las empresas, que son flujos, influyen significativamente en las fluctuaciones del PIB real en el corto plazo (ciclos económicos).

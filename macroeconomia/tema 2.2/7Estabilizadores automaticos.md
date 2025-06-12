@@ -1,6 +1,5 @@
 
 La política fiscal automática es una consecuencia de la recaudación tributaria y de los gastos que fluctúan con el PIB real. Estos mecanismos de la política fiscal se llaman estabilizadores automáticos porque funcionan para estabilizar el PIB real sin ninguna acción explícita del gobierno.  
-
 ### Impuestos inducidos
 
 son los impuestos sobre ingresos que varían con el PIB Real, que son definidos por las leyes tributarias.

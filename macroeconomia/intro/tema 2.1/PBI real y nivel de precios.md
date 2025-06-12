@@ -3,8 +3,6 @@ Una mayor producción de bienes y servicios mejora la calidad de vida, pero paga
 $$\text{Deflactor del PIB}= \tfrac{\text{PBI Nominal}}{\text{PBI Real}}*100$$
 
 El deflactor del PIB se utiliza para eliminar la influencia de la inflación en el cálculo del PIB.
-
-
 ### Medición del crecimiento económico 
 
 La tasa de crecimiento económico es el cambio porcentual de la cantidad de bienes y servicios producidos por una economía de un año a otro
